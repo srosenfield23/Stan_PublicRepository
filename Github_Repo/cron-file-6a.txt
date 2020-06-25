@@ -1,0 +1,4 @@
+MAILTO=srosenfield23@gmail.com
+0 6 * * * bash check_bytes.sh && echo "From Cron Job:" | mutt -s "Covid19 Stats" srosenfield23@gmail.com -a Covid19_*.txt
+SHELL=/bin/bash
+HOME=/
