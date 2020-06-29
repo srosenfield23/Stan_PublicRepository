@@ -1,0 +1,1199 @@
+Stats for World:
+This is Covid19 data for: June 29, 2020
+Total cases are : 10,112,754
+Total deaths are:   501,562
+New cases are   :   159,946
+New deaths      :     3,041
+World Population: 7,794,798,729
+%Decrease of new cases over yesterday:          -11.77 %
+%Increase of new cases over week_ago:            23.23 %
+Rise in weekly infection rate:                    3.87 %
+Rates of infection/10k capita (today):            20.52 %
+Rates of infection/10k capita (week_ago):         16.65 %
+New deaths per 100,000 capita (ideal < .03):       0.04
+Deaths per 100,000 capita (today):                 6.43
+Deaths per 100,000 capita (week_ago):              6.01
+New cases rate (today vs yesterday):               -0.24 %
+New cases rate (today vs week_ago):               0.13 %
+New death rate (today vs yesterday):              -0.32 %
+New death rate (today vs week_ago):               -0.24 %
+Fatality rate(total death over total case):        4.96 %
+Increase in total cases since last Mon :          13.3 %
+New Deaths over lives lost since last Mon :          9 %
+Percent of new cases above 30 day avg:               14 %
+Avg new daily deaths in last 30 days:             4,555
+Avg new daily cases in last 30 days:            140,392
+Total lives lost since last Mon :                33,289
+Total cases if doubled in last 30 days:        Negative
+
+
+Stats for Russia:
+This is Covid19 data for: June 29, 2020
+Total cases are : 634,437
+Total deaths are:   9,073
+New cases are   :   6,791
+New deaths      :     104
+Russia Population: 145,934,460
+%Decrease of new cases over yesterday:          -0.89 %
+%Decrease of new cases over week_ago:            -12.12 %
+Fall in weekly infection rate:                    -6.43 %
+Rates of infection/10k capita (today):            46.53 %
+Rates of infection/10k capita (week_ago):         52.96 %
+New deaths per 100,000 capita (ideal < .03):       0.07
+Deaths per 100,000 capita (today):                 6.22
+Deaths per 100,000 capita (week_ago):              5.56
+New cases rate (today vs yesterday):               -0.02 %
+New cases rate (today vs week_ago):               -0.25 %
+New death rate (today vs yesterday):              -0.95 %
+New death rate (today vs week_ago):               -0.2 %
+Fatality rate(total death over total case):        1.43 %
+Increase in total cases since last Mon :          8.5 %
+New Deaths over lives lost since last Mon :          11 %
+Percent of new cases below 30 day avg:               -17 %
+Avg new daily deaths in last 30 days:             157
+Avg new daily cases in last 30 days:            8,227
+Total lives lost since last Mon :                962
+Total cases if doubled in last 30 days:        Negative
+
+
+Stats for Ukraine:
+This is Covid19 data for: June 29, 2020
+Total cases are : 42,982
+Total deaths are:   1,129
+New cases are   :   917
+New deaths      :     19
+Ukraine Population: 43,733,759
+%Decrease of new cases over yesterday:          -3.27 %
+%Increase of new cases over week_ago:            24.76 %
+Rise in weekly infection rate:                    4.16 %
+Rates of infection/10k capita (today):            20.97 %
+Rates of infection/10k capita (week_ago):         16.81 %
+New deaths per 100,000 capita (ideal < .03):       0.04
+Deaths per 100,000 capita (today):                 2.58
+Deaths per 100,000 capita (week_ago):              2.29
+New cases rate (today vs yesterday):               -0.12 %
+New cases rate (today vs week_ago):               0.12 %
+New death rate (today vs yesterday):              -0.48 %
+New death rate (today vs week_ago):               0.88 %
+Fatality rate(total death over total case):        2.63 %
+Increase in total cases since last Mon :          17.6 %
+New Deaths over lives lost since last Mon :          15 %
+Percent of new cases above 30 day avg:               39 %
+Avg new daily deaths in last 30 days:             14
+Avg new daily cases in last 30 days:            659
+Total lives lost since last Mon :                127
+Total cases if doubled in last 30 days:        Negative
+
+
+Stats for United States:
+This is Covid19 data for: June 29, 2020
+Total cases are : 2,548,996
+Total deaths are:   125,804
+New cases are   :   38,673
+New deaths      :     265
+United States Population: 331,002,647
+%Decrease of new cases over yesterday:          -8.97 %
+%Increase of new cases over week_ago:            49.94 %
+Rise in weekly infection rate:                    38.92 %
+Rates of infection/10k capita (today):            116.84 %
+Rates of infection/10k capita (week_ago):         77.92 %
+New deaths per 100,000 capita (ideal < .03):       0.08
+Deaths per 100,000 capita (today):                 38.01
+Deaths per 100,000 capita (week_ago):              36.25
+New cases rate (today vs yesterday):               -0.18 %
+New cases rate (today vs week_ago):               0.39 %
+New death rate (today vs yesterday):              -0.19 %
+New death rate (today vs week_ago):               -0.0 %
+Fatality rate(total death over total case):        4.94 %
+Increase in total cases since last Mon :          11.8 %
+New Deaths over lives lost since last Mon :          5 %
+Percent of new cases above 30 day avg:               45 %
+Avg new daily deaths in last 30 days:             766
+Avg new daily cases in last 30 days:            26,730
+Total lives lost since last Mon :                5,829
+Total cases if doubled in last 30 days:        Negative
+
+
+Stats for Mexico:
+This is Covid19 data for: June 29, 2020
+Total cases are : 216,852
+Total deaths are:   26,648
+New cases are   :   4,050
+New deaths      :     267
+Mexico Population: 128,932,753
+%Decrease of new cases over yesterday:          -8.16 %
+%Decrease of new cases over week_ago:            -24.2 %
+Fall in weekly infection rate:                    -10.03 %
+Rates of infection/10k capita (today):            31.41 %
+Rates of infection/10k capita (week_ago):         41.44 %
+New deaths per 100,000 capita (ideal < .03):       0.21
+Deaths per 100,000 capita (today):                 20.67
+Deaths per 100,000 capita (week_ago):              16.93
+New cases rate (today vs yesterday):               -0.2 %
+New cases rate (today vs week_ago):               -1.09 %
+New death rate (today vs yesterday):              -1.28 %
+New death rate (today vs week_ago):               -3.78 %
+Fatality rate(total death over total case):        12.29 %
+Increase in total cases since last Mon :          20.1 %
+New Deaths over lives lost since last Mon :          6 %
+Percent of new cases below 30 day avg:               -8 %
+Avg new daily deaths in last 30 days:             574
+Avg new daily cases in last 30 days:            4,408
+Total lives lost since last Mon :                4,823
+Total cases if doubled in last 30 days:       **HOT_SPOT
+
+
+Stats for Honduras:
+This is Covid19 data for: June 29, 2020
+Total cases are : 18,082
+Total deaths are:   479
+New cases are   :   1,075
+New deaths      :     0
+Honduras Population: 9,904,608
+%Increase of new cases over yesterday:            6.12 %
+%Increase of new cases over week_ago:            107.13 %
+Rise in weekly infection rate:                    56.14 %
+Rates of infection/10k capita (today):            108.54 %
+Rates of infection/10k capita (week_ago):         52.4 %
+New deaths per 100,000 capita (ideal < .03):       0.0
+Deaths per 100,000 capita (today):                 4.84
+Deaths per 100,000 capita (week_ago):              3.66
+New cases rate (today vs yesterday):               -0.01 %
+New cases rate (today vs week_ago):               1.88 %
+New death rate (today vs yesterday):              -1.67 %
+New death rate (today vs week_ago):               -1.38 %
+Fatality rate(total death over total case):        2.65 %
+Increase in total cases since last Mon :          41.6 %
+New Deaths over lives lost since last Mon :          0 %
+Percent of new cases above 30 day avg:               144 %
+Avg new daily deaths in last 30 days:             9
+Avg new daily cases in last 30 days:            440
+Total lives lost since last Mon :                116
+Total cases if doubled in last 30 days:       **HOT_SPOT
+
+
+Stats for Guatemala:
+This is Covid19 data for: June 29, 2020
+Total cases are : 16,930
+Total deaths are:   727
+New cases are   :   533
+New deaths      :     21
+Guatemala Population: 17,915,567
+%Decrease of new cases over yesterday:          -6.33 %
+%Increase of new cases over week_ago:            36.67 %
+Rise in weekly infection rate:                    7.98 %
+Rates of infection/10k capita (today):            29.75 %
+Rates of infection/10k capita (week_ago):         21.77 %
+New deaths per 100,000 capita (ideal < .03):       0.12
+Deaths per 100,000 capita (today):                 4.06
+Deaths per 100,000 capita (week_ago):              2.96
+New cases rate (today vs yesterday):               -0.32 %
+New cases rate (today vs week_ago):               0.18 %
+New death rate (today vs yesterday):              -1.93 %
+New death rate (today vs week_ago):               -0.31 %
+Fatality rate(total death over total case):        4.29 %
+Increase in total cases since last Mon :          28.8 %
+New Deaths over lives lost since last Mon :          11 %
+Percent of new cases above 30 day avg:               30 %
+Avg new daily deaths in last 30 days:             21
+Avg new daily cases in last 30 days:            411
+Total lives lost since last Mon :                196
+Total cases if doubled in last 30 days:       **HOT_SPOT
+
+
+Stats for United Kingdom:
+This is Covid19 data for: June 29, 2020
+Total cases are : 311,151
+Total deaths are:   43,550
+New cases are   :   901
+New deaths      :     36
+United Kingdom Population: 67,886,004
+%Increase of new cases over yesterday:            1.24 %
+%Decrease of new cases over week_ago:            -26.21 %
+Fall in weekly infection rate:                    -4.72 %
+Rates of infection/10k capita (today):            13.27 %
+Rates of infection/10k capita (week_ago):         17.99 %
+New deaths per 100,000 capita (ideal < .03):       0.05
+Deaths per 100,000 capita (today):                 64.15
+Deaths per 100,000 capita (week_ago):              62.8
+New cases rate (today vs yesterday):               0.0 %
+New cases rate (today vs week_ago):               -0.11 %
+New death rate (today vs yesterday):              -0.15 %
+New death rate (today vs week_ago):               -0.02 %
+Fatality rate(total death over total case):        14.0 %
+Increase in total cases since last Mon :          2.2 %
+New Deaths over lives lost since last Mon :          4 %
+Percent of new cases below 30 day avg:               -32 %
+Avg new daily deaths in last 30 days:             180
+Avg new daily cases in last 30 days:            1,331
+Total lives lost since last Mon :                918
+Total cases if doubled in last 30 days:        Negative
+
+
+Stats for Sweden:
+This is Covid19 data for: June 29, 2020
+Total cases are : 65,137
+Total deaths are:   5,280
+New cases are   :   0
+New deaths      :     0
+Sweden Population: 10,099,270
+Rise in weekly infection rate:                    0.0 %
+Rates of infection/10k capita (today):            0.0 %
+Rates of infection/10k capita (week_ago):         0.0 %
+New deaths per 100,000 capita (ideal < .03):       0.0
+Deaths per 100,000 capita (today):                 52.28
+Deaths per 100,000 capita (week_ago):              50.03
+New cases rate (today vs yesterday):               0.0 %
+New cases rate (today vs week_ago):               0.0 %
+New death rate (today vs yesterday):              0.0 %
+New death rate (today vs week_ago):               0.0 %
+Fatality rate(total death over total case):        8.11 %
+Increase in total cases since last Mon :          16.2 %
+New Deaths over lives lost since last Mon :          0 %
+Percent of new cases below 30 day avg:               -100 %
+Avg new daily deaths in last 30 days:             31
+Avg new daily cases in last 30 days:            955
+Total lives lost since last Mon :                227
+Total cases if doubled in last 30 days:        Negative
+
+
+Stats for Portugal:
+This is Covid19 data for: June 29, 2020
+Total cases are : 41,646
+Total deaths are:   1,564
+New cases are   :   457
+New deaths      :     3
+Portugal Population: 10,196,707
+%Increase of new cases over yesterday:            41.49 %
+%Increase of new cases over week_ago:            56.51 %
+Rise in weekly infection rate:                    16.18 %
+Rates of infection/10k capita (today):            44.82 %
+Rates of infection/10k capita (week_ago):         28.64 %
+New deaths per 100,000 capita (ideal < .03):       0.03
+Deaths per 100,000 capita (today):                 15.34
+Deaths per 100,000 capita (week_ago):              15.0
+New cases rate (today vs yesterday):               0.31 %
+New cases rate (today vs week_ago):               0.35 %
+New death rate (today vs yesterday):              -0.19 %
+New death rate (today vs week_ago):               0.06 %
+Fatality rate(total death over total case):        3.76 %
+Increase in total cases since last Mon :          6.4 %
+New Deaths over lives lost since last Mon :          9 %
+Percent of new cases above 30 day avg:               41 %
+Avg new daily deaths in last 30 days:             6
+Avg new daily cases in last 30 days:            323
+Total lives lost since last Mon :                34
+Total cases if doubled in last 30 days:        Negative
+
+
+Stats for Armenia:
+This is Covid19 data for: June 29, 2020
+Total cases are : 25,127
+Total deaths are:   433
+New cases are   :   482
+New deaths      :     7
+Armenia Population: 2,963,234
+%Decrease of new cases over yesterday:          -34.51 %
+%Decrease of new cases over week_ago:            -45.23 %
+Fall in weekly infection rate:                    -134.31 %
+Rates of infection/10k capita (today):            162.66 %
+Rates of infection/10k capita (week_ago):         296.97 %
+New deaths per 100,000 capita (ideal < .03):       0.24
+Deaths per 100,000 capita (today):                 14.61
+Deaths per 100,000 capita (week_ago):              12.15
+New cases rate (today vs yesterday):               -1.07 %
+New cases rate (today vs week_ago):               -2.36 %
+New death rate (today vs yesterday):              0.21 %
+New death rate (today vs week_ago):               -6.16 %
+Fatality rate(total death over total case):        1.72 %
+Increase in total cases since last Mon :          22.0 %
+New Deaths over lives lost since last Mon :          10 %
+Percent of new cases below 30 day avg:               -12 %
+Avg new daily deaths in last 30 days:             10
+Avg new daily cases in last 30 days:            548
+Total lives lost since last Mon :                73
+Total cases if doubled in last 30 days:       **HOT_SPOT
+
+
+Stats for Romania:
+This is Covid19 data for: June 29, 2020
+Total cases are : 26,313
+Total deaths are:   1,612
+New cases are   :   291
+New deaths      :     23
+Romania Population: 19,237,682
+%Decrease of new cases over yesterday:          -10.46 %
+%Decrease of new cases over week_ago:            -7.62 %
+Fall in weekly infection rate:                    -1.24 %
+Rates of infection/10k capita (today):            15.13 %
+Rates of infection/10k capita (week_ago):         16.37 %
+New deaths per 100,000 capita (ideal < .03):       0.12
+Deaths per 100,000 capita (today):                 8.38
+Deaths per 100,000 capita (week_ago):              7.86
+New cases rate (today vs yesterday):               -0.14 %
+New cases rate (today vs week_ago):               -0.2 %
+New death rate (today vs yesterday):              0.8 %
+New death rate (today vs week_ago):               0.63 %
+Fatality rate(total death over total case):        6.13 %
+Increase in total cases since last Mon :          9.4 %
+New Deaths over lives lost since last Mon :          23 %
+Percent of new cases above 30 day avg:               19 %
+Avg new daily deaths in last 30 days:             12
+Avg new daily cases in last 30 days:            244
+Total lives lost since last Mon :                100
+Total cases if doubled in last 30 days:        Negative
+
+
+Stats for Moldova:
+This is Covid19 data for: June 29, 2020
+Total cases are : 16,250
+Total deaths are:   530
+New cases are   :   170
+New deaths      :     9
+Moldova Population: 4,033,963
+%Decrease of new cases over yesterday:          -44.08 %
+%Decrease of new cases over week_ago:            -31.17 %
+Fall in weekly infection rate:                    -19.09 %
+Rates of infection/10k capita (today):            42.14 %
+Rates of infection/10k capita (week_ago):         61.23 %
+New deaths per 100,000 capita (ideal < .03):       0.22
+Deaths per 100,000 capita (today):                 13.14
+Deaths per 100,000 capita (week_ago):              11.73
+New cases rate (today vs yesterday):               -0.84 %
+New cases rate (today vs week_ago):               -0.69 %
+New death rate (today vs yesterday):              0.55 %
+New death rate (today vs week_ago):               -0.2 %
+Fatality rate(total death over total case):        3.26 %
+Increase in total cases since last Mon :          14.4 %
+New Deaths over lives lost since last Mon :          16 %
+Percent of new cases below 30 day avg:               -39 %
+Avg new daily deaths in last 30 days:             8
+Avg new daily cases in last 30 days:            278
+Total lives lost since last Mon :                57
+Total cases if doubled in last 30 days:       **HOT_SPOT
+
+
+Stats for North Macedonia:
+This is Covid19 data for: June 29, 2020
+Total cases are : 6,092
+Total deaths are:   286
+New cases are   :   176
+New deaths      :     9
+North Macedonia Population: 2,083,380
+%Increase of new cases over yesterday:            17.33 %
+%Increase of new cases over week_ago:            74.26 %
+Rise in weekly infection rate:                    36.0 %
+Rates of infection/10k capita (today):            84.48 %
+Rates of infection/10k capita (week_ago):         48.48 %
+New deaths per 100,000 capita (ideal < .03):       0.43
+Deaths per 100,000 capita (today):                 13.73
+Deaths per 100,000 capita (week_ago):              11.42
+New cases rate (today vs yesterday):               0.35 %
+New cases rate (today vs week_ago):               0.91 %
+New death rate (today vs yesterday):              -0.1 %
+New death rate (today vs week_ago):               1.05 %
+Fatality rate(total death over total case):        4.69 %
+Increase in total cases since last Mon :          19.3 %
+New Deaths over lives lost since last Mon :          19 %
+Percent of new cases above 30 day avg:               33 %
+Avg new daily deaths in last 30 days:             5
+Avg new daily cases in last 30 days:            132
+Total lives lost since last Mon :                48
+Total cases if doubled in last 30 days:       **HOT_SPOT
+
+
+Stats for Bangladesh:
+This is Covid19 data for: June 29, 2020
+Total cases are : 137,787
+Total deaths are:   1,738
+New cases are   :   3,809
+New deaths      :     43
+Bangladesh Population: 164,689,383
+%Increase of new cases over yesterday:            8.7 %
+%Increase of new cases over week_ago:            7.87 %
+Rise in weekly infection rate:                    1.69 %
+Rates of infection/10k capita (today):            23.13 %
+Rates of infection/10k capita (week_ago):         21.44 %
+New deaths per 100,000 capita (ideal < .03):       0.03
+Deaths per 100,000 capita (today):                 1.06
+Deaths per 100,000 capita (week_ago):              0.89
+New cases rate (today vs yesterday):               0.15 %
+New cases rate (today vs week_ago):               -0.38 %
+New death rate (today vs yesterday):              0.47 %
+New death rate (today vs week_ago):               -0.19 %
+Fatality rate(total death over total case):        1.26 %
+Increase in total cases since last Mon :          22.7 %
+New Deaths over lives lost since last Mon :          16 %
+Percent of new cases above 30 day avg:               20 %
+Avg new daily deaths in last 30 days:             39
+Avg new daily cases in last 30 days:            3,165
+Total lives lost since last Mon :                274
+Total cases if doubled in last 30 days:       **HOT_SPOT
+
+
+Stats for India:
+This is Covid19 data for: June 29, 2020
+Total cases are : 548,318
+Total deaths are:   16,475
+New cases are   :   19,459
+New deaths      :     380
+India Population: 1,380,004,385
+%Decrease of new cases over yesterday:          -2.25 %
+%Increase of new cases over week_ago:            31.29 %
+Rise in weekly infection rate:                    3.36 %
+Rates of infection/10k capita (today):            14.1 %
+Rates of infection/10k capita (week_ago):         10.74 %
+New deaths per 100,000 capita (ideal < .03):       0.03
+Deaths per 100,000 capita (today):                 1.19
+Deaths per 100,000 capita (week_ago):              0.99
+New cases rate (today vs yesterday):               -0.22 %
+New cases rate (today vs week_ago):               0.06 %
+New death rate (today vs yesterday):              -0.24 %
+New death rate (today vs week_ago):               -0.94 %
+Fatality rate(total death over total case):        3.0 %
+Increase in total cases since last Mon :          28.9 %
+New Deaths over lives lost since last Mon :          14 %
+Percent of new cases above 30 day avg:               56 %
+Avg new daily deaths in last 30 days:             383
+Avg new daily cases in last 30 days:            12,485
+Total lives lost since last Mon :                2,776
+Total cases if doubled in last 30 days:       **HOT_SPOT
+
+
+Stats for Pakistan:
+This is Covid19 data for: June 29, 2020
+Total cases are : 206,512
+Total deaths are:   4,167
+New cases are   :   3,557
+New deaths      :     49
+Pakistan Population: 220,892,331
+%Decrease of new cases over yesterday:          -12.65 %
+%Decrease of new cases over week_ago:            -20.44 %
+Fall in weekly infection rate:                    -4.14 %
+Rates of infection/10k capita (today):            16.1 %
+Rates of infection/10k capita (week_ago):         20.24 %
+New deaths per 100,000 capita (ideal < .03):       0.02
+Deaths per 100,000 capita (today):                 1.89
+Deaths per 100,000 capita (week_ago):              1.63
+New cases rate (today vs yesterday):               -0.28 %
+New cases rate (today vs week_ago):               -0.75 %
+New death rate (today vs yesterday):              -0.84 %
+New death rate (today vs week_ago):               -1.3 %
+Fatality rate(total death over total case):        2.02 %
+Increase in total cases since last Mon :          14.0 %
+New Deaths over lives lost since last Mon :          8 %
+Percent of new cases below 30 day avg:               -24 %
+Avg new daily deaths in last 30 days:             92
+Avg new daily cases in last 30 days:            4,668
+Total lives lost since last Mon :                577
+Total cases if doubled in last 30 days:       **HOT_SPOT
+
+
+Stats for Turkey:
+This is Covid19 data for: June 29, 2020
+Total cases are : 197,239
+Total deaths are:   5,097
+New cases are   :   1,356
+New deaths      :     15
+Turkey Population: 84,339,067
+%Decrease of new cases over yesterday:          -1.17 %
+%Increase of new cases over week_ago:            13.76 %
+Rise in weekly infection rate:                    1.95 %
+Rates of infection/10k capita (today):            16.08 %
+Rates of infection/10k capita (week_ago):         14.13 %
+New deaths per 100,000 capita (ideal < .03):       0.02
+Deaths per 100,000 capita (today):                 6.04
+Deaths per 100,000 capita (week_ago):              5.87
+New cases rate (today vs yesterday):               -0.01 %
+New cases rate (today vs week_ago):               0.05 %
+New death rate (today vs yesterday):              -0.04 %
+New death rate (today vs week_ago):               -0.17 %
+Fatality rate(total death over total case):        2.58 %
+Increase in total cases since last Mon :          5.1 %
+New Deaths over lives lost since last Mon :          10 %
+Percent of new cases above 30 day avg:               16 %
+Avg new daily deaths in last 30 days:             20
+Avg new daily cases in last 30 days:            1,171
+Total lives lost since last Mon :                147
+Total cases if doubled in last 30 days:        Negative
+
+
+Stats for Iraq:
+This is Covid19 data for: June 29, 2020
+Total cases are : 45,402
+Total deaths are:   1,756
+New cases are   :   2,140
+New deaths      :     96
+Iraq Population: 40,222,503
+%Increase of new cases over yesterday:            3.43 %
+%Increase of new cases over week_ago:            30.01 %
+Rise in weekly infection rate:                    12.28 %
+Rates of infection/10k capita (today):            53.2 %
+Rates of infection/10k capita (week_ago):         40.92 %
+New deaths per 100,000 capita (ideal < .03):       0.24
+Deaths per 100,000 capita (today):                 4.37
+Deaths per 100,000 capita (week_ago):              2.73
+New cases rate (today vs yesterday):               -0.07 %
+New cases rate (today vs week_ago):               -0.62 %
+New death rate (today vs yesterday):              -0.62 %
+New death rate (today vs week_ago):               -2.44 %
+Fatality rate(total death over total case):        3.87 %
+Increase in total cases since last Mon :          47.1 %
+New Deaths over lives lost since last Mon :          15 %
+Percent of new cases above 30 day avg:               62 %
+Avg new daily deaths in last 30 days:             52
+Avg new daily cases in last 30 days:            1,318
+Total lives lost since last Mon :                656
+Total cases if doubled in last 30 days:       **HOT_SPOT
+
+
+Stats for Iran:
+This is Covid19 data for: June 29, 2020
+Total cases are : 222,669
+Total deaths are:   10,508
+New cases are   :   2,489
+New deaths      :     144
+Iran Population: 83,992,953
+%Increase of new cases over yesterday:            1.34 %
+%Increase of new cases over week_ago:            5.11 %
+Rise in weekly infection rate:                    1.44 %
+Rates of infection/10k capita (today):            29.63 %
+Rates of infection/10k capita (week_ago):         28.19 %
+New deaths per 100,000 capita (ideal < .03):       0.17
+Deaths per 100,000 capita (today):                 12.51
+Deaths per 100,000 capita (week_ago):              11.46
+New cases rate (today vs yesterday):               0.0 %
+New cases rate (today vs week_ago):               -0.04 %
+New death rate (today vs yesterday):              -0.89 %
+New death rate (today vs week_ago):               0.16 %
+Fatality rate(total death over total case):        4.72 %
+Increase in total cases since last Mon :          8.6 %
+New Deaths over lives lost since last Mon :          16 %
+Percent of new cases below 30 day avg:               -2 %
+Avg new daily deaths in last 30 days:             94
+Avg new daily cases in last 30 days:            2,533
+Total lives lost since last Mon :                885
+Total cases if doubled in last 30 days:        Negative
+
+
+Stats for Saudi Arabia:
+This is Covid19 data for: June 29, 2020
+Total cases are : 182,493
+Total deaths are:   1,551
+New cases are   :   3,989
+New deaths      :     40
+Saudi Arabia Population: 34,813,867
+%Increase of new cases over yesterday:            1.58 %
+%Increase of new cases over week_ago:            18.05 %
+Rise in weekly infection rate:                    17.52 %
+Rates of infection/10k capita (today):            114.58 %
+Rates of infection/10k capita (week_ago):         97.06 %
+New deaths per 100,000 capita (ideal < .03):       0.11
+Deaths per 100,000 capita (today):                 4.46
+Deaths per 100,000 capita (week_ago):              3.64
+New cases rate (today vs yesterday):               -0.01 %
+New cases rate (today vs week_ago):               0.04 %
+New death rate (today vs yesterday):              0.13 %
+New death rate (today vs week_ago):               -0.34 %
+Fatality rate(total death over total case):        0.85 %
+Increase in total cases since last Mon :          15.8 %
+New Deaths over lives lost since last Mon :          14 %
+Percent of new cases above 30 day avg:               19 %
+Avg new daily deaths in last 30 days:             36
+Avg new daily cases in last 30 days:            3,358
+Total lives lost since last Mon :                284
+Total cases if doubled in last 30 days:       **HOT_SPOT
+
+
+Stats for Qatar:
+This is Covid19 data for: June 29, 2020
+Total cases are : 94,413
+Total deaths are:   110
+New cases are   :   750
+New deaths      :     0
+Qatar Population: 2,881,060
+%Decrease of new cases over yesterday:          -14.68 %
+%Decrease of new cases over week_ago:            -14.87 %
+Fall in weekly infection rate:                    -45.47 %
+Rates of infection/10k capita (today):            260.32 %
+Rates of infection/10k capita (week_ago):         305.79 %
+New deaths per 100,000 capita (ideal < .03):       0.0
+Deaths per 100,000 capita (today):                 3.82
+Deaths per 100,000 capita (week_ago):              3.4
+New cases rate (today vs yesterday):               -0.14 %
+New cases rate (today vs week_ago):               -0.21 %
+New death rate (today vs yesterday):              -0.91 %
+New death rate (today vs week_ago):               -4.08 %
+Fatality rate(total death over total case):        0.12 %
+Increase in total cases since last Mon :          8.1 %
+New Deaths over lives lost since last Mon :          0 %
+Percent of new cases below 30 day avg:               -46 %
+Avg new daily deaths in last 30 days:             2.47
+Avg new daily cases in last 30 days:            1,384
+Total lives lost since last Mon :                12
+Total cases if doubled in last 30 days:        Negative
+
+
+Stats for Brazil:
+This is Covid19 data for: June 29, 2020
+Total cases are : 1,344,143
+Total deaths are:   57,622
+New cases are   :   30,476
+New deaths      :     552
+Brazil Population: 212,559,409
+%Decrease of new cases over yesterday:          -21.24 %
+%Increase of new cases over week_ago:            74.56 %
+Rise in weekly infection rate:                    61.24 %
+Rates of infection/10k capita (today):            143.38 %
+Rates of infection/10k capita (week_ago):         82.14 %
+New deaths per 100,000 capita (ideal < .03):       0.26
+Deaths per 100,000 capita (today):                 27.11
+Deaths per 100,000 capita (week_ago):              23.81
+New cases rate (today vs yesterday):               -0.68 %
+New cases rate (today vs week_ago):               0.66 %
+New death rate (today vs yesterday):              -0.99 %
+New death rate (today vs week_ago):               -0.31 %
+Fatality rate(total death over total case):        4.29 %
+Increase in total cases since last Mon :          23.9 %
+New Deaths over lives lost since last Mon :          8 %
+Percent of new cases above 30 day avg:               4 %
+Avg new daily deaths in last 30 days:             991
+Avg new daily cases in last 30 days:            29,299
+Total lives lost since last Mon :                7,005
+Total cases if doubled in last 30 days:       **HOT_SPOT
+
+
+Stats for Bolivia:
+This is Covid19 data for: June 29, 2020
+Total cases are : 31,524
+Total deaths are:   1,014
+New cases are   :   848
+New deaths      :     44
+Bolivia Population: 11,673,029
+%Decrease of new cases over yesterday:          -32.32 %
+%Decrease of new cases over week_ago:            -3.2 %
+Fall in weekly infection rate:                    -2.39 %
+Rates of infection/10k capita (today):            72.65 %
+Rates of infection/10k capita (week_ago):         75.04 %
+New deaths per 100,000 capita (ideal < .03):       0.38
+Deaths per 100,000 capita (today):                 8.69
+Deaths per 100,000 capita (week_ago):              6.62
+New cases rate (today vs yesterday):               -1.39 %
+New cases rate (today vs week_ago):               -0.9 %
+New death rate (today vs yesterday):              0.63 %
+New death rate (today vs week_ago):               0.07 %
+Fatality rate(total death over total case):        3.22 %
+Increase in total cases since last Mon :          29.3 %
+New Deaths over lives lost since last Mon :          18 %
+Percent of new cases above 30 day avg:               12 %
+Avg new daily deaths in last 30 days:             24
+Avg new daily cases in last 30 days:            760
+Total lives lost since last Mon :                241
+Total cases if doubled in last 30 days:       **HOT_SPOT
+
+
+Stats for Colombia:
+This is Covid19 data for: June 29, 2020
+Total cases are : 91,769
+Total deaths are:   3,106
+New cases are   :   3,178
+New deaths      :     167
+Colombia Population: 50,882,884
+%Decrease of new cases over yesterday:          -23.4 %
+%Increase of new cases over week_ago:            5.27 %
+Rise in weekly infection rate:                    3.13 %
+Rates of infection/10k capita (today):            62.46 %
+Rates of infection/10k capita (week_ago):         59.33 %
+New deaths per 100,000 capita (ideal < .03):       0.33
+Deaths per 100,000 capita (today):                 6.1
+Deaths per 100,000 capita (week_ago):              4.4
+New cases rate (today vs yesterday):               -1.22 %
+New cases rate (today vs week_ago):               -0.93 %
+New death rate (today vs yesterday):              1.02 %
+New death rate (today vs week_ago):               0.41 %
+Fatality rate(total death over total case):        3.38 %
+Increase in total cases since last Mon :          33.7 %
+New Deaths over lives lost since last Mon :          19 %
+Percent of new cases above 30 day avg:               46 %
+Avg new daily deaths in last 30 days:             75
+Avg new daily cases in last 30 days:            2,169
+Total lives lost since last Mon :                869
+Total cases if doubled in last 30 days:       **HOT_SPOT
+
+
+Stats for Chile:
+This is Covid19 data for: June 29, 2020
+Total cases are : 271,982
+Total deaths are:   5,509
+New cases are   :   4,216
+New deaths      :     162
+Chile Population: 19,116,209
+%Decrease of new cases over yesterday:          -4.31 %
+%Decrease of new cases over week_ago:            -24.81 %
+Fall in weekly infection rate:                    -72.76 %
+Rates of infection/10k capita (today):            220.55 %
+Rates of infection/10k capita (week_ago):         293.31 %
+New deaths per 100,000 capita (ideal < .03):       0.85
+Deaths per 100,000 capita (today):                 28.82
+Deaths per 100,000 capita (week_ago):              23.43
+New cases rate (today vs yesterday):               -0.1 %
+New cases rate (today vs week_ago):               -0.76 %
+New death rate (today vs yesterday):              -2.28 %
+New death rate (today vs week_ago):               -1.17 %
+Fatality rate(total death over total case):        2.03 %
+Increase in total cases since last Mon :          12.2 %
+New Deaths over lives lost since last Mon :          16 %
+Percent of new cases below 30 day avg:               -30 %
+Avg new daily deaths in last 30 days:             152
+Avg new daily cases in last 30 days:            6,045
+Total lives lost since last Mon :                1,030
+Total cases if doubled in last 30 days:       **HOT_SPOT
+
+
+Stats for Ecuador:
+This is Covid19 data for: June 29, 2020
+Total cases are : 55,255
+Total deaths are:   4,429
+New cases are   :   681
+New deaths      :     5
+Ecuador Population: 17,643,060
+%Decrease of new cases over yesterday:          -5.15 %
+%Increase of new cases over week_ago:            49.02 %
+Rise in weekly infection rate:                    12.7 %
+Rates of infection/10k capita (today):            38.6 %
+Rates of infection/10k capita (week_ago):         25.9 %
+New deaths per 100,000 capita (ideal < .03):       0.03
+Deaths per 100,000 capita (today):                 25.1
+Deaths per 100,000 capita (week_ago):              23.94
+New cases rate (today vs yesterday):               -0.08 %
+New cases rate (today vs week_ago):               0.33 %
+New death rate (today vs yesterday):              -0.29 %
+New death rate (today vs week_ago):               -0.46 %
+Fatality rate(total death over total case):        8.02 %
+Increase in total cases since last Mon :          9.1 %
+New Deaths over lives lost since last Mon :          2 %
+Percent of new cases above 30 day avg:               22 %
+Avg new daily deaths in last 30 days:             36
+Avg new daily cases in last 30 days:            556
+Total lives lost since last Mon :                206
+Total cases if doubled in last 30 days:        Negative
+
+
+Stats for Peru:
+This is Covid19 data for: June 29, 2020
+Total cases are : 279,419
+Total deaths are:   9,317
+New cases are   :   3,430
+New deaths      :     182
+Peru Population: 32,971,846
+%Decrease of new cases over yesterday:          -5.38 %
+%Decrease of new cases over week_ago:            -4.67 %
+Fall in weekly infection rate:                    -5.09 %
+Rates of infection/10k capita (today):            104.03 %
+Rates of infection/10k capita (week_ago):         109.12 %
+New deaths per 100,000 capita (ideal < .03):       0.55
+Deaths per 100,000 capita (today):                 28.26
+Deaths per 100,000 capita (week_ago):              24.4
+New cases rate (today vs yesterday):               -0.09 %
+New cases rate (today vs week_ago):               -0.18 %
+New death rate (today vs yesterday):              -0.19 %
+New death rate (today vs week_ago):               -0.33 %
+Fatality rate(total death over total case):        3.33 %
+Increase in total cases since last Mon :          9.6 %
+New Deaths over lives lost since last Mon :          14 %
+Percent of new cases below 30 day avg:               -22 %
+Avg new daily deaths in last 30 days:             170
+Avg new daily cases in last 30 days:            4,371
+Total lives lost since last Mon :                1,272
+Total cases if doubled in last 30 days:        Negative
+
+
+Stats for Venezuela:
+This is Covid19 data for: June 29, 2020
+Total cases are : 5,297
+Total deaths are:   44
+New cases are   :   167
+New deaths      :     2
+Venezuela Population: 28,435,943
+%Decrease of new cases over yesterday:          -52.42 %
+%Increase of new cases over week_ago:            30.47 %
+Rise in weekly infection rate:                    1.37 %
+Rates of infection/10k capita (today):            5.87 %
+Rates of infection/10k capita (week_ago):         4.5 %
+New deaths per 100,000 capita (ideal < .03):       0.01
+Deaths per 100,000 capita (today):                 0.15
+Deaths per 100,000 capita (week_ago):              0.12
+New cases rate (today vs yesterday):               -3.69 %
+New cases rate (today vs week_ago):               -0.11 %
+New death rate (today vs yesterday):              2.16 %
+New death rate (today vs week_ago):               4.55 %
+Fatality rate(total death over total case):        0.83 %
+Increase in total cases since last Mon :          35.2 %
+New Deaths over lives lost since last Mon :          18 %
+Percent of new cases above 30 day avg:               28 %
+Avg new daily deaths in last 30 days:             1.0
+Avg new daily cases in last 30 days:            131
+Total lives lost since last Mon :                11
+Total cases if doubled in last 30 days:       **HOT_SPOT
+
+
+Stats for Algeria:
+This is Covid19 data for: June 29, 2020
+Total cases are : 13,273
+Total deaths are:   897
+New cases are   :   305
+New deaths      :     5
+Algeria Population: 43,851,043
+%Increase of new cases over yesterday:            7.77 %
+%Increase of new cases over week_ago:            117.86 %
+Rise in weekly infection rate:                    3.77 %
+Rates of infection/10k capita (today):            6.96 %
+Rates of infection/10k capita (week_ago):         3.19 %
+New deaths per 100,000 capita (ideal < .03):       0.01
+Deaths per 100,000 capita (today):                 2.05
+Deaths per 100,000 capita (week_ago):              1.93
+New cases rate (today vs yesterday):               0.12 %
+New cases rate (today vs week_ago):               1.11 %
+New death rate (today vs yesterday):              -0.23 %
+New death rate (today vs week_ago):               -0.39 %
+Fatality rate(total death over total case):        6.76 %
+Increase in total cases since last Mon :          12.8 %
+New Deaths over lives lost since last Mon :          10 %
+Percent of new cases above 30 day avg:               121 %
+Avg new daily deaths in last 30 days:             9
+Avg new daily cases in last 30 days:            138
+Total lives lost since last Mon :                52
+Total cases if doubled in last 30 days:        Negative
+
+
+Stats for Ethiopia:
+This is Covid19 data for: June 29, 2020
+Total cases are : 5,689
+Total deaths are:   98
+New cases are   :   119
+New deaths      :     4
+Ethiopia Population: 114,963,583
+%Decrease of new cases over yesterday:          -17.93 %
+%Increase of new cases over week_ago:            88.89 %
+Rise in weekly infection rate:                    0.49 %
+Rates of infection/10k capita (today):            1.04 %
+Rates of infection/10k capita (week_ago):         0.55 %
+New deaths per 100,000 capita (ideal < .03):       0.0
+Deaths per 100,000 capita (today):                 0.09
+Deaths per 100,000 capita (week_ago):              0.06
+New cases rate (today vs yesterday):               -0.51 %
+New cases rate (today vs week_ago):               0.7 %
+New death rate (today vs yesterday):              -1.24 %
+New death rate (today vs week_ago):               1.38 %
+Fatality rate(total death over total case):        1.72 %
+Increase in total cases since last Mon :          25.5 %
+New Deaths over lives lost since last Mon :          17 %
+Percent of new cases below 30 day avg:               -24 %
+Avg new daily deaths in last 30 days:             3.0
+Avg new daily cases in last 30 days:            157
+Total lives lost since last Mon :                24
+Total cases if doubled in last 30 days:       **HOT_SPOT
+
+
+Stats for Ghana:
+This is Covid19 data for: June 29, 2020
+Total cases are : 17,351
+Total deaths are:   112
+New cases are   :   920
+New deaths      :     9
+Ghana Population: 31,072,945
+%Increase of new cases over yesterday:            54.1 %
+%Increase of new cases over week_ago:            107.67 %
+Rise in weekly infection rate:                    15.35 %
+Rates of infection/10k capita (today):            29.61 %
+Rates of infection/10k capita (week_ago):         14.26 %
+New deaths per 100,000 capita (ideal < .03):       0.03
+Deaths per 100,000 capita (today):                 0.36
+Deaths per 100,000 capita (week_ago):              0.27
+New cases rate (today vs yesterday):               1.67 %
+New cases rate (today vs week_ago):               2.17 %
+New death rate (today vs yesterday):              8.04 %
+New death rate (today vs week_ago):               8.04 %
+Fatality rate(total death over total case):        0.65 %
+Increase in total cases since last Mon :          22.6 %
+New Deaths over lives lost since last Mon :          33 %
+Percent of new cases above 30 day avg:               184 %
+Avg new daily deaths in last 30 days:             2.6
+Avg new daily cases in last 30 days:            324
+Total lives lost since last Mon :                27
+Total cases if doubled in last 30 days:       **HOT_SPOT
+
+
+Stats for Nigeria:
+This is Covid19 data for: June 29, 2020
+Total cases are : 24,567
+Total deaths are:   565
+New cases are   :   490
+New deaths      :     7
+Nigeria Population: 206,139,587
+%Decrease of new cases over yesterday:          -37.1 %
+%Increase of new cases over week_ago:            12.39 %
+Rise in weekly infection rate:                    0.26 %
+Rates of infection/10k capita (today):            2.38 %
+Rates of infection/10k capita (week_ago):         2.12 %
+New deaths per 100,000 capita (ideal < .03):       0.0
+Deaths per 100,000 capita (today):                 0.27
+Deaths per 100,000 capita (week_ago):              0.25
+New cases rate (today vs yesterday):               -1.24 %
+New cases rate (today vs week_ago):               -0.16 %
+New death rate (today vs yesterday):              0.52 %
+New death rate (today vs week_ago):               -1.08 %
+Fatality rate(total death over total case):        2.3 %
+Increase in total cases since last Mon :          21.4 %
+New Deaths over lives lost since last Mon :          15 %
+Percent of new cases below 30 day avg:               -4 %
+Avg new daily deaths in last 30 days:             10
+Avg new daily cases in last 30 days:            509
+Total lives lost since last Mon :                47
+Total cases if doubled in last 30 days:       **HOT_SPOT
+
+
+Stats for South Africa:
+This is Covid19 data for: June 29, 2020
+Total cases are : 138,134
+Total deaths are:   2,456
+New cases are   :   6,334
+New deaths      :     43
+South Africa Population: 59,308,690
+%Decrease of new cases over yesterday:          -12.15 %
+%Increase of new cases over week_ago:            37.07 %
+Rise in weekly infection rate:                    28.89 %
+Rates of infection/10k capita (today):            106.8 %
+Rates of infection/10k capita (week_ago):         77.91 %
+New deaths per 100,000 capita (ideal < .03):       0.07
+Deaths per 100,000 capita (today):                 4.14
+Deaths per 100,000 capita (week_ago):              3.25
+New cases rate (today vs yesterday):               -0.89 %
+New cases rate (today vs week_ago):               -0.16 %
+New death rate (today vs yesterday):              -1.27 %
+New death rate (today vs week_ago):               -1.0 %
+Fatality rate(total death over total case):        1.78 %
+Increase in total cases since last Mon :          42.0 %
+New Deaths over lives lost since last Mon :          8 %
+Percent of new cases above 30 day avg:               74 %
+Avg new daily deaths in last 30 days:             62
+Avg new daily cases in last 30 days:            3,630
+Total lives lost since last Mon :                526
+Total cases if doubled in last 30 days:       **HOT_SPOT
+
+
+Stats for Cabo Verde:
+This is Covid19 data for: June 29, 2020
+Total cases are : 1,155
+Total deaths are:   12
+New cases are   :   64
+New deaths      :     0
+Cabo Verde Population: 555,988
+%Increase of new cases over yesterday:            0.0 %
+%Increase of new cases over week_ago:            137.04 %
+Rise in weekly infection rate:                    66.55 %
+Rates of infection/10k capita (today):            115.11 %
+Rates of infection/10k capita (week_ago):         48.56 %
+New deaths per 100,000 capita (ideal < .03):       0.0
+Deaths per 100,000 capita (today):                 2.16
+Deaths per 100,000 capita (week_ago):              1.44
+New cases rate (today vs yesterday):               -0.33 %
+New cases rate (today vs week_ago):               2.51 %
+New death rate (today vs yesterday):              -16.67 %
+New death rate (today vs week_ago):               0.0 %
+Fatality rate(total death over total case):        1.04 %
+Increase in total cases since last Mon :          29.8 %
+New Deaths over lives lost since last Mon :          0 %
+Percent of new cases above 30 day avg:               156 %
+Avg new daily deaths in last 30 days:             0.27
+Avg new daily cases in last 30 days:            25
+Total lives lost since last Mon :                4
+Total cases if doubled in last 30 days:       **HOT_SPOT
+
+
+Stats for Kuwait:
+This is Covid19 data for: June 29, 2020
+Total cases are : 44,942
+Total deaths are:   348
+New cases are   :   551
+New deaths      :     4
+Kuwait Population: 4,270,563
+%Decrease of new cases over yesterday:          -19.91 %
+%Increase of new cases over week_ago:            9.11 %
+Rise in weekly infection rate:                    10.77 %
+Rates of infection/10k capita (today):            129.02 %
+Rates of infection/10k capita (week_ago):         118.25 %
+New deaths per 100,000 capita (ideal < .03):       0.09
+Deaths per 100,000 capita (today):                 8.15
+Deaths per 100,000 capita (week_ago):              7.63
+New cases rate (today vs yesterday):               -0.32 %
+New cases rate (today vs week_ago):               -0.05 %
+New death rate (today vs yesterday):              0.28 %
+New death rate (today vs week_ago):               -1.0 %
+Fatality rate(total death over total case):        0.77 %
+Increase in total cases since last Mon :          13.3 %
+New Deaths over lives lost since last Mon :          18 %
+Percent of new cases below 30 day avg:               -16 %
+Avg new daily deaths in last 30 days:             5
+Avg new daily cases in last 30 days:            659
+Total lives lost since last Mon :                22
+Total cases if doubled in last 30 days:        Negative
+
+
+Stats for Egypt:
+This is Covid19 data for: June 29, 2020
+Total cases are : 65,188
+Total deaths are:   2,789
+New cases are   :   1,265
+New deaths      :     81
+Egypt Population: 102,334,403
+%Increase of new cases over yesterday:            8.3 %
+%Decrease of new cases over week_ago:            -14.24 %
+Fall in weekly infection rate:                    -2.05 %
+Rates of infection/10k capita (today):            12.36 %
+Rates of infection/10k capita (week_ago):         14.41 %
+New deaths per 100,000 capita (ideal < .03):       0.08
+Deaths per 100,000 capita (today):                 2.73
+Deaths per 100,000 capita (week_ago):              2.14
+New cases rate (today vs yesterday):               0.11 %
+New cases rate (today vs week_ago):               -0.73 %
+New death rate (today vs yesterday):              -0.35 %
+New death rate (today vs week_ago):               -1.06 %
+Fatality rate(total death over total case):        4.28 %
+Increase in total cases since last Mon :          18.0 %
+New Deaths over lives lost since last Mon :          14 %
+Percent of new cases below 30 day avg:               -12 %
+Avg new daily deaths in last 30 days:             64
+Avg new daily cases in last 30 days:            1,437
+Total lives lost since last Mon :                596
+Total cases if doubled in last 30 days:       **HOT_SPOT
+
+
+Stats for Oman:
+This is Covid19 data for: June 29, 2020
+Total cases are : 38,150
+Total deaths are:   163
+New cases are   :   1,197
+New deaths      :     4
+Oman Population: 5,106,622
+%Increase of new cases over yesterday:            30.25 %
+%Increase of new cases over week_ago:            32.27 %
+Rise in weekly infection rate:                    57.18 %
+Rates of infection/10k capita (today):            234.4 %
+Rates of infection/10k capita (week_ago):         177.22 %
+New deaths per 100,000 capita (ideal < .03):       0.08
+Deaths per 100,000 capita (today):                 3.19
+Deaths per 100,000 capita (week_ago):              2.57
+New cases rate (today vs yesterday):               0.65 %
+New cases rate (today vs week_ago):               0.07 %
+New death rate (today vs yesterday):              -1.32 %
+New death rate (today vs week_ago):               0.16 %
+Fatality rate(total death over total case):        0.43 %
+Increase in total cases since last Mon :          29.4 %
+New Deaths over lives lost since last Mon :          12 %
+Percent of new cases above 30 day avg:               27 %
+Avg new daily deaths in last 30 days:             4
+Avg new daily cases in last 30 days:            944
+Total lives lost since last Mon :                32
+Total cases if doubled in last 30 days:       **HOT_SPOT
+
+
+Stats for Philippines:
+This is Covid19 data for: June 29, 2020
+Total cases are : 35,455
+Total deaths are:   1,244
+New cases are   :   652
+New deaths      :     8
+Philippines Population: 109,581,085
+%Decrease of new cases over yesterday:          -10.68 %
+%Increase of new cases over week_ago:            0.0 %
+Rise in weekly infection rate:                    0.0 %
+Rates of infection/10k capita (today):            5.95 %
+Rates of infection/10k capita (week_ago):         5.95 %
+New deaths per 100,000 capita (ideal < .03):       0.01
+Deaths per 100,000 capita (today):                 1.14
+Deaths per 100,000 capita (week_ago):              1.07
+New cases rate (today vs yesterday):               -0.26 %
+New cases rate (today vs week_ago):               -0.33 %
+New death rate (today vs yesterday):              -0.33 %
+New death rate (today vs week_ago):               -0.98 %
+Fatality rate(total death over total case):        3.51 %
+Increase in total cases since last Mon :          18.0 %
+New Deaths over lives lost since last Mon :          11 %
+Percent of new cases above 30 day avg:               4 %
+Avg new daily deaths in last 30 days:             10
+Avg new daily cases in last 30 days:            627
+Total lives lost since last Mon :                75
+Total cases if doubled in last 30 days:       **HOT_SPOT
+
+
+Stats for Indonesia:
+This is Covid19 data for: June 29, 2020
+Total cases are : 54,010
+Total deaths are:   2,754
+New cases are   :   1,198
+New deaths      :     34
+Indonesia Population: 273,523,621
+%Decrease of new cases over yesterday:          -13.5 %
+%Increase of new cases over week_ago:            38.98 %
+Rise in weekly infection rate:                    1.23 %
+Rates of infection/10k capita (today):            4.38 %
+Rates of infection/10k capita (week_ago):         3.15 %
+New deaths per 100,000 capita (ideal < .03):       0.01
+Deaths per 100,000 capita (today):                 1.01
+Deaths per 100,000 capita (week_ago):              0.9
+New cases rate (today vs yesterday):               -0.4 %
+New cases rate (today vs week_ago):               0.34 %
+New death rate (today vs yesterday):              -0.13 %
+New death rate (today vs week_ago):               -0.23 %
+Fatality rate(total death over total case):        5.1 %
+Increase in total cases since last Mon :          17.7 %
+New Deaths over lives lost since last Mon :          12 %
+Percent of new cases above 30 day avg:               25 %
+Avg new daily deaths in last 30 days:             41
+Avg new daily cases in last 30 days:            960
+Total lives lost since last Mon :                289
+Total cases if doubled in last 30 days:       **HOT_SPOT
+
+
+*   The date of the data above reflects the date of
+     reporting, not necessarily reflects the confirmed
+     case and death figures on that given day.
+(Data Source: https://ourworldindata.org/coronavirus-source-data)
+
+
+** HOT_SPOT status & location determine by Guam
+   Public Health, in consultation with governor
+   and state surgeon physicians' advisory group.
+(Source: https://www.postguam.com/news/local/epidemiologist-philippines-not-the-only-hot-spot/article_67e9e650-aac2-11ea-adb8-db95d33c4632.html)
+
+
+*** As stated by Dr Christopher Murray, director of
+      the Institute for Health Metrics and Evaluation
+      (IHME): He defined the end of this “wave” as a
+      ratio of: 0.3 deaths per 1 million people.    
+      Equivalent to: 0.03 deaths per 100,000 capita.
+(Source: https://www.theguardian.com/world/2020/apr/07/uk-will-be-europes-worst-hit-by-coronavirus-study-predicts)
+
+
+* New cases rate defined as: the percentage ratio
+   between today's new cases over total cases,
+   minus yesterday's new cases over total cases.
+
+
+* Rates of infection defined as: the percentage ratio
+   between today's new cases over 10,000 per capita
+
+
+*** Death Rate defined as: the percentage ratio 
+      between today's new deaths over total deaths,
+      minus yesterday's new deaths over total deaths.
+
+
+*** Economist Intelligence Unit (EIU) analysts
+      said in a note: Death ratios will depend
+      on the capacity of countries to effectively
+      detect, track, and contain the epidemic.
+(Source: https://www.cnbc.com/2020/03/18/coronavirus-will-infect-half-the-global-population-eiu-predicts.html)
+
+
