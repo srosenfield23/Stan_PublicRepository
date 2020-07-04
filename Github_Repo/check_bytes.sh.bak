@@ -1,7 +1,10 @@
 #! /usr/bin/bash
-curl -O "https://covid.ourworldindata.org/data/ecdc/full_data.csv" && grep -rl 'Swaziland' full_data.csv | xargs sed -i 's/Swaziland/Eswatini/g'
 
-grep -rl Macedonia full_data.csv | xargs sed -i 's/Macedonia/"North Macedonia"/g' && grep -rl "Cote d'Ivoire" full_data.csv | xargs sed -i "s/Cote d'Ivoire/Ivory Coast/g" && 
+curl -O "https://covid.ourworldindata.org/data/ecdc/full_data.csv" && grep -rl 'Swaziland' full_data.csv | xargs sed -i 's/Swaziland/Eswatini/g' && 
+
+sed -i -e '/2020-06-18,Venezuela/s/,,,,/,37,0,541,10/' full_data.csv && 
+
+grep -rl Macedonia full_data.csv | xargs sed -i 's/Macedonia/North Macedonia/g' && grep -rl "Cote d'Ivoire" full_data.csv | xargs sed -i "s/Cote d'Ivoire/Ivory Coast/g" && 
 
 grep -rl Timor full_data.csv | xargs sed -i 's/Timor/Timor-Leste/g' && grep -rl "Cape Verde" full_data.csv | xargs sed -i 's/Cape Verde/Cabo Verde/g' && 
 
@@ -26,7 +29,7 @@ rm /home/oracle/Covid19_*.txt
 cat /dev/null > /home/oracle/Covid19_"${now}".txt
 cd data_week11
 
-python3 covid19.py World Russia Ukraine "United States" Mexico Honduras Guatemala "United Kingdom" Sweden Portugal Armenia Moldova "North Macedonia" Bangladesh India Pakistan Turkey Iraq Iran "Saudi Arabia" Qatar Brazil Bolivia Colombia Chile Ecuador Peru Venezuela Algeria Ethiopia Ghana Nigeria "South Africa" "Cabo Verde" Kuwait Egypt Oman Philippines Indonesia > /home/oracle/Covid19_"${now}".txt && 
+python3 covid19.py World "United States" "United Kingdom" Sweden Portugal Mexico Honduras Guatemala Russia Ukraine Armenia Moldova "North Macedonia" Bangladesh India Pakistan Turkey Iraq Iran "Saudi Arabia" Qatar Brazil Bolivia Colombia Chile Ecuador Peru Venezuela Algeria Ethiopia Ghana Nigeria "South Africa" "Cabo Verde" Kuwait Egypt Oman Philippines Indonesia > /home/oracle/Covid19_"${now}".txt && 
 
 cp /home/oracle/Covid*.txt /home/oracle/shared/Github_Repo/
 

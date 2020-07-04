@@ -1,7 +1,9 @@
 #! /usr/bin/bash
-curl -O "https://covid.ourworldindata.org/data/ecdc/full_data.csv" && grep -rl 'Swaziland' full_data.csv | xargs sed -i 's/Swaziland/Eswatini/g'
+curl -O "https://covid.ourworldindata.org/data/ecdc/full_data.csv" && grep -rl 'Swaziland' full_data.csv | xargs sed -i 's/Swaziland/Eswatini/g' && 
 
-grep -rl Macedonia full_data.csv | xargs sed -i 's/Macedonia/"North Macedonia"/g' && grep -rl "Cote d'Ivoire" full_data.csv | xargs sed -i "s/Cote d'Ivoire/Ivory Coast/g" && 
+sed -i -e '/2020-06-18,Venezuela/s/,,,,/,37,0,541,10/' full_data.csv
+
+grep -rl Macedonia full_data.csv | xargs sed -i 's/Macedonia/North Macedonia/g' && grep -rl "Cote d'Ivoire" full_data.csv | xargs sed -i "s/Cote d'Ivoire/Ivory Coast/g" && 
 
 grep -rl Timor full_data.csv | xargs sed -i 's/Timor/Timor-Leste/g' && grep -rl "Cape Verde" full_data.csv | xargs sed -i 's/Cape Verde/Cabo Verde/g' && 
 
