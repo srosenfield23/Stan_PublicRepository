@@ -12,29 +12,29 @@ Total deaths are:         533,958
 =====================================
 World Population: 7,794,798,729
 =====================================
-%Decrease of new cases over yesterday:   -14.46 %
-%Increase of new cases over week_ago:     10.92 %
-Rise in weekly infection rate:                       2.24 %
+%Decrease of new cases over yesterday:      -14.46 %
+%Increase of new cases over week_ago:        10.92 %
+Rise in weekly infection rate:                2.24 %
 Rates of infection/10k capita (today):        22.8 %
-Rates of infection/10k capita (week_ago): 20.56 %
-Rate of avg weekly cases/100k capita:         2.39
-New deaths per 100,000 capita (ideal < .03):  0.04
-Deaths per 100,000 capita (today):                6.85
-Deaths per 100,000 capita (week_ago):         6.44
+Rates of infection/10k capita (week_ago):     20.56 %
+Rate of avg weekly cases/100k capita:          2.39
+New deaths per 100,000 capita (ideal < .03):   0.04
+Deaths per 100,000 capita (today):             6.85
+Deaths per 100,000 capita (week_ago):          6.44
 New cases rate (today vs yesterday):          -0.32 %
 New cases rate (today vs week_ago):           -0.03 %
-New death rate (today vs yesterday):           -0.34 %
-New death rate (today vs week_ago):           0.02 %
-Fatality rate(total death over total case):         4.68 %
-New deaths over lives lost since last Mon :        10 %
-Increase in total cases since last Mon :          12.9 %
-Percent of new cases below 14 day avg:            0 %
-Percent of new cases above 30 day avg:             14 %
-Avg new daily cases in last 14 days:             177,924
-Avg new daily cases in last 30 days:             156,029
-Avg new daily deaths in last 30 days:                4,607
-Total lives lost since last Mon :                       32,361
-Total cases if doubled in last 30 days:         Negative
+New death rate (today vs yesterday):          -0.34 %
+New death rate (today vs week_ago):            0.02 %
+Fatality rate(total death over total case):    4.68 %
+New deaths over lives lost since last Mon:     10 %
+Increase in total cases since last Mon :       12.9 %
+Percent of new cases below 14 day avg:          0 %
+Percent of new cases above 30 day avg:         14 %
+Avg new daily cases in last 14 days:          177,924
+Avg new daily cases in last 30 days:          156,029
+Avg new daily deaths in last 30 days:           4,607
+Total lives lost since last Mon :              32,361
+Total cases if doubled in last 30 days:      Negative
 
 
 Stats for United States:
@@ -51,29 +51,29 @@ Total deaths are:         129,947
 =====================================
 United States Population: 331,002,647
 =====================================
-%Decrease of new cases over yesterday:   -9.83 %
-%Increase of new cases over week_ago:     26.94 %
-Rise in weekly infection rate:                       31.48 %
+%Decrease of new cases over yesterday:         -9.83 %
+%Increase of new cases over week_ago:          26.94 %
+Rise in weekly infection rate:                 31.48 %
 Rates of infection/10k capita (today):        148.32 %
-Rates of infection/10k capita (week_ago): 116.84 %
-Rate of avg weekly cases/100k capita:         14.66
-New deaths per 100,000 capita (ideal < .03):  0.08
-Deaths per 100,000 capita (today):                39.26
-Deaths per 100,000 capita (week_ago):         38.01
-New cases rate (today vs yesterday):          -0.25 %
-New cases rate (today vs week_ago):           0.18 %
+Rates of infection/10k capita (week_ago):     116.84 %
+Rate of avg weekly cases/100k capita:          14.66
+New deaths per 100,000 capita (ideal < .03):    0.08
+Deaths per 100,000 capita (today):             39.26
+Deaths per 100,000 capita (week_ago):          38.01
+New cases rate (today vs yesterday):           -0.25 %
+New cases rate (today vs week_ago):             0.18 %
 New death rate (today vs yesterday):           -0.33 %
-New death rate (today vs week_ago):           -0.0 %
-Fatality rate(total death over total case):         4.5 %
-New deaths over lives lost since last Mon :        7 %
-Increase in total cases since last Mon :          13.3 %
-Percent of new cases above 14 day avg:             13 %
-Percent of new cases above 30 day avg:             49 %
-Avg new daily cases in last 14 days:             43,409
-Avg new daily cases in last 30 days:             33,027
-Avg new daily deaths in last 30 days:                693
-Total lives lost since last Mon :                       4,143
-Total cases if doubled in last 30 days:         Negative
+New death rate (today vs week_ago):            -0.0 %
+Fatality rate(total death over total case):     4.5 %
+New deaths over lives lost since last Mon :     7 %
+Increase in total cases since last Mon :       13.3 %
+Percent of new cases above 14 day avg:         13 %
+Percent of new cases above 30 day avg:         49 %
+Avg new daily cases in last 14 days:          43,409
+Avg new daily cases in last 30 days:          33,027
+Avg new daily deaths in last 30 days:            693
+Total lives lost since last Mon :              4,143
+Total cases if doubled in last 30 days:     Negative
 
 
 Stats for United Kingdom:
@@ -90,29 +90,29 @@ Total deaths are:         44,220
 =====================================
 United Kingdom Population: 67,886,004
 =====================================
-%Decrease of new cases over yesterday:   -0.58 %
-%Decrease of new cases over week_ago:     -42.73 %
-Fall in weekly infection rate:            -5.67 %
+%Decrease of new cases over yesterday:       -0.58 %
+%Decrease of new cases over week_ago:       -42.73 %
+Fall in weekly infection rate:               -5.67 %
 Rates of infection/10k capita (today):        7.6 %
 Rates of infection/10k capita (week_ago): 13.27 %
 Rate of avg weekly cases/100k capita:         -5.42
-New deaths per 100,000 capita (ideal < .03):  0.03
-Deaths per 100,000 capita (today):                65.14
+New deaths per 100,000 capita (ideal < .03):   0.03
+Deaths per 100,000 capita (today):            65.14
 Deaths per 100,000 capita (week_ago):         64.15
 New cases rate (today vs yesterday):          -0.0 %
 New cases rate (today vs week_ago):           -0.11 %
-New death rate (today vs yesterday):           -0.26 %
+New death rate (today vs yesterday):          -0.26 %
 New death rate (today vs week_ago):           -0.03 %
-Fatality rate(total death over total case):         15.49 %
-New deaths over lives lost since last Mon :        3 %
-Decrease in total cases since last Mon :          -8.3 %
-Percent of new cases above 14 day avg:             -138 %
-Percent of new cases above 30 day avg:             635 %
-Avg new daily cases in last 14 days:             -1,351.07
-Avg new daily cases in last 30 days:             70
-Avg new daily deaths in last 30 days:                132
-Total lives lost since last Mon :                       670
-Total cases if doubled in last 30 days:         Negative
+Fatality rate(total death over total case):   15.49 %
+New deaths over lives lost since last Mon :    3 %
+Decrease in total cases since last Mon :      -8.3 %
+Percent of new cases above 14 day avg       -138 %
+Percent of new cases above 30 day avg:       635 %
+Avg new daily cases in last 14 days:        -1,351.07
+Avg new daily cases in last 30 days:            70
+Avg new daily deaths in last 30 days           132
+Total lives lost since last Mon :              670
+Total cases if doubled in last 30 days:      Negative
 
 
 Stats for Sweden:
@@ -129,28 +129,28 @@ Total deaths are:         5,420
 =====================================
 Sweden Population: 10,099,270
 =====================================
-%Decrease of new cases over yesterday:   -100.0 %
-Rise in weekly infection rate:                       0.0 %
+%Decrease of new cases over yesterday:     -100.0 %
+Rise in weekly infection rate:                0.0 %
 Rates of infection/10k capita (today):        0.0 %
-Rates of infection/10k capita (week_ago): 0.0 %
+Rates of infection/10k capita (week_ago):     0.0 %
 Rate of avg weekly cases/100k capita:         8.89
 New deaths per 100,000 capita (ideal < .03):  0.0
-Deaths per 100,000 capita (today):                53.67
+Deaths per 100,000 capita (today):            53.67
 Deaths per 100,000 capita (week_ago):         52.28
 New cases rate (today vs yesterday):          -1.09 %
-New cases rate (today vs week_ago):           0.0 %
-New death rate (today vs yesterday):           -0.17 %
-New death rate (today vs week_ago):           0.0 %
-Fatality rate(total death over total case):         7.59 %
-New deaths over lives lost since last Mon :        0 %
-Increase in total cases since last Mon :          9.6 %
-Percent of new cases below 14 day avg:            -100 %
-Percent of new cases below 30 day avg:            -100 %
-Avg new daily cases in last 14 days:             1,098
-Avg new daily cases in last 30 days:             949
-Avg new daily deaths in last 30 days:                26
-Total lives lost since last Mon :                       140
-Total cases if doubled in last 30 days:         Negative
+New cases rate (today vs week_ago):            0.0 %
+New death rate (today vs yesterday):          -0.17 %
+New death rate (today vs week_ago):            0.0 %
+Fatality rate(total death over total case):    7.59 %
+New deaths over lives lost since last Mon :    0 %
+Increase in total cases since last Mon :       9.6 %
+Percent of new cases below 14 day avg:        -100 %
+Percent of new cases below 30 day avg:        -100 %
+Avg new daily cases in last 14 days:         1,098
+Avg new daily cases in last 30 days:           949
+Avg new daily deaths in last 30 days:           26
+Total lives lost since last Mon:               140
+Total cases if doubled in last 30 days:     Negative
 
 
 Stats for Portugal:
