@@ -42,6 +42,8 @@ python3 covid19.py "Saudi Arabia" Senegal Serbia Seychelles "Sierra Leone" Singa
 
 python3 covid19.py Thailand Timor-Leste Togo "Trinidad and Tobago" Tunisia Turkey "Turks and Caicos Islands" Uganda Ukraine "United Arab Emirates" "United Kingdom" "United States" "United States Virgin Islands" Uruguay Uzbekistan "Vatican City" Venezuela Vietnam >> /home/oracle/Covid19_"${now}".txt &&
 
+cp /home/oracle/data_week11/covid19.py /home/oracle/data_week11/covid19_without_footers.py &&
+
 cp /home/oracle/data_week11/covid19_with_footers.py /home/oracle/data_week11/covid19.py &&
 
 python3 covid19.py "Western Sahara" World Yemen Zambia Zimbabwe >> /home/oracle/Covid19_"${now}".txt

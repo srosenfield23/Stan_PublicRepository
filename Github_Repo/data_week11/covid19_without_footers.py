@@ -91,29 +91,39 @@ if __name__ == '__main__':
             if row[1] == i:
                 country_data_30day_prior.append(row)
 
-        double_total_cases_30days_ago = int(country_data_30day_prior[-1][4]) * 2
-
-        total_lives_lost = int(country_data[-1][5]) - int(country_data_7day_prior[-1][5])
-        delta_cases_week = int(country_data[-1][4]) - int(country_data_7day_prior[-1][4])
-
         new_vs_old_cases = int(country_data[-1][2]) - int(country_data_old[-1][2])
         new_vs_7day_prior_cases = int(country_data[-1][2]) - int(country_data_7day_prior[-1][2])
 
         if int(country_data_old[-1][2]) != 0:
+            change_new_cases = (new_vs_old_cases) / int(country_data_old[-1][2]) * 100
             if int(country_data[-1][2])  >=  int(country_data_old[-1][2]):
-                change_new_cases = round(((new_vs_old_cases) / int(country_data_old[-1][2])) * 100,2)
-                print('%Increase of new cases over yesterday:  '.format(row)+('{:,}'.format(change_new_cases)),'%')
+                if change_new_cases < 100 and change_new_cases >= 0:
+                    change_new_cases = round((change_new_cases),2)
+                if change_new_cases > 99.99 or change_new_cases < -99.99:
+                    change_new_cases = round(change_new_cases)
+                print('%Increase of new cases over yesterday:   '.format(row)+('{:,}'.format(change_new_cases)),'%')
+
             if int(country_data_old[-1][2]) > int(country_data[-1][2]):
-                change_new_cases = round(((new_vs_old_cases) / int(country_data_old[-1][2])) * 100,2)
+                if change_new_cases  < -99.99:
+                    change_new_cases = round(change_new_cases)
+                if change_new_cases  > -99.99 and change_new_cases < 0:
+                    change_new_cases = round((change_new_cases), 2)
                 print('%Decrease of new cases over yesterday:  '.format(row)+('{:,}'.format(change_new_cases)),'%')
 
         if int(country_data_7day_prior[-1][2]) != 0:
+            change_new_cases = (new_vs_7day_prior_cases) / int(country_data_7day_prior[-1][2]) * 100
             if int(country_data[-1][2])  >=  int(country_data_7day_prior[-1][2]):
-                change_new_cases = round(((new_vs_7day_prior_cases) / int(country_data_7day_prior[-1][2])) * 100,2)
+                if change_new_cases < 100 and change_new_cases >= 0:
+                    change_new_cases = round((change_new_cases), 2)
+                if change_new_cases > 99.99 or change_new_cases < -99.99:
+                    change_new_cases = round(change_new_cases)
                 print('%Increase of new cases over week_ago:   '.format(row)+('{:,}'.format(change_new_cases)),'%')
 
             if int(country_data_7day_prior[-1][2]) > int(country_data[-1][2]):
-                change_new_cases = round(((new_vs_7day_prior_cases) / int(country_data_7day_prior[-1][2])) * 100,2)
+                if change_new_cases  < -99.99:
+                    change_new_cases = round(change_new_cases)
+                if change_new_cases  > -99.99 and change_new_cases < 0:
+                    change_new_cases = round((change_new_cases), 2)
                 print('%Decrease of new cases over week_ago:  '.format(row)+('{:,}'.format(change_new_cases)),'%')
 
         if int(country_data[-1][5]) != 0:
@@ -129,81 +139,147 @@ if __name__ == '__main__':
             new_death_7day_prior_ratio = int(country_data_7day_prior[-1][3]) / int(country_data_7day_prior[-1][5])
         else:
             new_death_7day_prior_ratio = 0
-        if  total_lives_lost == 0:
+
+        weekly_deaths = round(float(country_data[-1][7]))
+
+        if  weekly_deaths == 0:
             new_deaths_over_week_deaths = 0
         else:
-            new_deaths_over_week_deaths = int(country_data[-1][3]) / (total_lives_lost)
+            new_deaths_over_week_deaths = int(country_data[-1][3]) / (weekly_deaths)
 
         current_date  = dt.datetime.strptime(country_data[-1][0], '%Y-%m-%d')
         day_of_week = current_date.strftime("%a")
 
-        Weekly_rates_of_infection = round((int(country_data[-1][2]) / (population_10thou)) * 100,2) - round((int(country_data_7day_prior[-1][2]) / (population_10thou)) * 100,2)
+        weekly_rates_of_infection = round((int(country_data[-1][2]) / (population_10thou)) * 100,2) - round((int(country_data_7day_prior[-1][2]) / (population_10thou)) * 100,2)
 
         if round((int(country_data[-1][2]) / (population_10thou)) * 100,2) >= round((int(country_data_7day_prior[-1][2]) / (population_10thou)) * 100,2):
-            print('Rise in weekly infection rate:                      ',round((Weekly_rates_of_infection),2),"%")
+            if weekly_rates_of_infection < 99.99:
+                print('Rise in weekly infection rate:                      ',round((weekly_rates_of_infection),2),"%")
+            else:
+                print('Rise in weekly infection rate:                      ',round((weekly_rates_of_infection)),"%")
+
         if round((int(country_data[-1][2]) / (population_10thou)) * 100,2) < round((int(country_data_7day_prior[-1][2]) / (population_10thou)) * 100,2):
-            print('Fall in weekly infection rate:                       ',round((Weekly_rates_of_infection),2),"%")
+            if weekly_rates_of_infection >= -100.00:
+                print('Fall in weekly infection rate:                       ',round((weekly_rates_of_infection),2),"%")
+            else:
+                print('Fall in weekly infection rate:                       ',round((weekly_rates_of_infection)),"%")
 
-        print('Rates of infection/10k capita (today):       ',round((int(country_data[-1][2]) / (population_10thou)) * 100,2),"%")
-        print('Rates of infection/10k capita (week_ago):',round((int(country_data_7day_prior[-1][2]) / (population_10thou)) * 100,2),"%")
+        rates_of_infection_capita_today = int(country_data[-1][2]) / (population_10thou) * 100
+        rates_of_infection_capita_week_ago = int(country_data_7day_prior[-1][2]) / (population_10thou) * 100
 
-        print('New deaths per 100,000 capita (ideal < .03):',round((int(country_data[-1][3]) / (population_100thou)), 2))
+        if rates_of_infection_capita_today >= 100.00:
+            rates_of_infection_capita_today = round(rates_of_infection_capita_today)
+        if rates_of_infection_capita_today < 100.00:
+            rates_of_infection_capita_today = round((rates_of_infection_capita_today),2)
+        print('Rates of infection/10k capita (today):         ',(rates_of_infection_capita_today),"%")
 
-        print('Deaths per 100,000 capita (today):                ',round((int(country_data[-1][5]) / (population_100thou)), 2))
-        print('Deaths per 100,000 capita (week_ago):        ',round((int(country_data_7day_prior[-1][5]) / (population_100thou)), 2))
+        if rates_of_infection_capita_week_ago >= 100.00:
+            rates_of_infection_capita_week_ago = round(rates_of_infection_capita_week_ago)
+        if rates_of_infection_capita_week_ago < 100.00:
+            rates_of_infection_capita_week_ago = round((rates_of_infection_capita_week_ago),2)
+        print('Rates of infection/10k capita (week_ago):  ',(rates_of_infection_capita_week_ago),"%")
 
-        print("New cases rate (today vs yesterday):          ",round(((int(country_data[-1][2]) / int(country_data[-1][4])) - (int(country_data_old[-1][2]) / int(country_data_old[-1][4]))) * 100, 2),"%")
-        print("New cases rate (today vs week_ago):         ",round(((int(country_data[-1][2]) / int(country_data[-1][4])) - (int(country_data_7day_prior[-1][2]) / int(country_data_7day_prior[-1][4]))) * 100, 2),"%")
+        weekly_cases = float(country_data[-1][6])
+        weekly_case_rate_avg_100k = round(((weekly_cases) / 7) / (population_100thou), 2)
 
-        print("New death rate (today vs yesterday):          ",round(((new_death_ratio) - (old_death_ratio)) * 100,2),"%")
-        print("New death rate (today vs week_ago):         ",round(((new_death_ratio) - (new_death_7day_prior_ratio)) * 100,2),"%")
+        print('Rate of avg weekly cases/100k capita:        '.format(row)+('{:,}'.format(weekly_case_rate_avg_100k)))
 
-        print('Fatality rate(total death over total case):      ',round((int(country_data[-1][5]) / int(country_data[-1][4])) * 100, 2),"%")
-        print("New deaths over lives lost since last",day_of_week," :   ",round((new_deaths_over_week_deaths) * 100),"%")
+        print('Rate of new deaths/100k capita(goal < .03): ',round((int(country_data[-1][3]) / (population_100thou)), 2))
 
-        increase_n_total = round((delta_cases_week) / int(country_data_7day_prior[-1][4]) * 100,1)
+        print('Deaths per 100,000 capita (today):              ',round((int(country_data[-1][5]) / (population_100thou)), 2))
+        print('Deaths per 100,000 capita (week_ago):      ',round((int(country_data_7day_prior[-1][5]) / (population_100thou)), 2))
+
+        print("New cases rate (today vs yesterday):         ",round(((int(country_data[-1][2]) / int(country_data[-1][4])) - (int(country_data_old[-1][2]) / int(country_data_old[-1][4]))) * 100, 2),"%")
+        print("New cases rate (today vs week_ago):        ",round(((int(country_data[-1][2]) / int(country_data[-1][4])) - (int(country_data_7day_prior[-1][2]) / int(country_data_7day_prior[-1][4]))) * 100, 2),"%")
+
+        print("New death rate (today vs yesterday):         ",round(((new_death_ratio) - (old_death_ratio)) * 100,2),"%")
+        print("New death rate (today vs week_ago):        ",round(((new_death_ratio) - (new_death_7day_prior_ratio)) * 100,2),"%")
+
+        print('Fatality rate(total death over total case):     ',round((int(country_data[-1][5]) / int(country_data[-1][4])) * 100, 2),"%")
+
+        print("07-Day ratio of new over weekly deaths:      ",round((new_deaths_over_week_deaths) * 100),"%")
+
+        increase_n_total = round(((weekly_cases) / int(country_data_7day_prior[-1][4])) * 100,1)
 
         if increase_n_total >= 0:
-            print("Increase in total cases since last",day_of_week, ":         ".format(row)+('{:,}'.format(increase_n_total)),"%")
+            print("Increase in total cases since last",day_of_week, ":       ".format(row)+('{:,}'.format(increase_n_total)),"%")
         else:
-            print("Decrease in total cases since last",day_of_week, ":         ".format(row)+('{:,}'.format(increase_n_total)),"%")
+            print("Decrease in total cases since last",day_of_week, ":       ".format(row)+('{:,}'.format(increase_n_total)),"%")
 
-        avg_total_cases_14_days = round((int(country_data[-1][4]) - int(country_data_14day_prior[-1][4])) / 14, 2)
+        biweekly_cases2 = float(country_data[-1][8])
+        avg_cases_14_days = round((biweekly_cases2) / 14, 2)
+        avg_cases_30_days = round((int(country_data[-1][4]) - int(country_data_30day_prior[-1][4])) / 30, 2)
 
-        if avg_total_cases_14_days != 0 and int(country_data[-1][2]) >= 0:
-            if int(country_data[-1][2]) >=  0 and (int(country_data[-1][2]) <= (avg_total_cases_14_days)):
-                print('Percent of new cases below 14 day avg:      ',round(int(country_data[-1][2]) / (avg_total_cases_14_days) * 100 -100),"%")
-            if int(country_data[-1][2]) > 0 and (int(country_data[-1][2]) > (avg_total_cases_14_days)) :
-                print('Percent of new cases above 14 day avg:      ',round(int(country_data[-1][2]) / (avg_total_cases_14_days) * 100 -100),"%")
+        if avg_cases_14_days != 0:
+            percent_new_cases_14 = (int(country_data[-1][2]) / (avg_cases_14_days) * 100) -100
 
-        if avg_total_cases_14_days > 3:
-            avg_total_cases_14_days = round((int(country_data[-1][4]) - int(country_data_14day_prior[-1][4])) / 14)
+        if avg_cases_14_days != 0 and int(country_data[-1][2]) >= 0:
+            if int(country_data[-1][2]) >=  0 and int(country_data[-1][2]) <= (avg_cases_14_days):
+                if percent_new_cases_14 < 100:
+                    percent_new_cases_14 = round((percent_new_cases_14), 1)
+                else:
+                    percent_new_cases_14 = round(percent_new_cases_14)
+                print('Percent of new cases below 14 day avg:    ',(percent_new_cases_14)),"%"
 
-        avg_total_cases_30_days = round((int(country_data[-1][4]) - int(country_data_30day_prior[-1][4])) / 30, 2)
+            if int(country_data[-1][2]) >= 0 and int(country_data[-1][2]) > (avg_cases_14_days):
+                if percent_new_cases_14 < 100 and percent_new_cases_14 >= -100:
+                    percent_new_cases_14 = round((percent_new_cases_14), 1)
+                else:
+                    percent_new_cases_14 = round(percent_new_cases_14)
+                print('Percent of new cases above 14 day avg:    ',(percent_new_cases_14)),"%"
+
+        if avg_cases_14_days > 3 or avg_cases_14_days < 3:
+           avg_cases_14_days = round((biweekly_cases2) / 14)
+
         avg_deaths_30_days = round((int(country_data[-1][5]) - int(country_data_30day_prior[-1][5])) / 30, 2)
 
-        if avg_total_cases_30_days != 0 and int(country_data[-1][2]) >= 0:
-            if int(country_data[-1][2]) >=  0 and (int(country_data[-1][2]) <= (avg_total_cases_30_days)):
-                print('Percent of new cases below 30 day avg:      ',round(int(country_data[-1][2]) / (avg_total_cases_30_days) * 100 -100),"%")
-            if int(country_data[-1][2]) > 0 and (int(country_data[-1][2]) > (avg_total_cases_30_days)) :
-                print('Percent of new cases above 30 day avg:      ',round(int(country_data[-1][2]) / (avg_total_cases_30_days) * 100 -100),"%")
+        if avg_cases_30_days != 0:
+            percent_new_cases_30 = (int(country_data[-1][2]) / (avg_cases_30_days) * 100) -100
 
-        if avg_total_cases_30_days > 3:
-            avg_total_cases_30_days = round((int(country_data[-1][4]) - int(country_data_30day_prior[-1][4])) / 30)
+        if avg_cases_30_days != 0 and int(country_data[-1][2]) >= 0:
+            if int(country_data[-1][2]) >=  0 and (int(country_data[-1][2]) <= (avg_cases_30_days)):
+                if percent_new_cases_30 < 100:
+                    percent_new_cases_30 = round((percent_new_cases_30), 1)
+                else:
+                    percent_new_cases_30 = round(percent_new_cases_30)
+                print('Percent of new cases below 30 day avg:    ',(percent_new_cases_30)),"%"
+
+            if int(country_data[-1][2]) > 0 and (int(country_data[-1][2]) > (avg_cases_30_days)) :
+                if percent_new_cases_30 < 100 and percent_new_cases_30 >= -100:
+                    percent_new_cases_30 = round((percent_new_cases_30), 1)
+                else:
+                    percent_new_cases_30 = round(percent_new_cases_30)
+                print('Percent of new cases above 30 day avg:    ',(percent_new_cases_30)),"%"
+
+        if avg_cases_30_days > 3:
+            avg_cases_30_days = round((int(country_data[-1][4]) - int(country_data_30day_prior[-1][4])) / 30)
         if avg_deaths_30_days > 3:
             avg_deaths_30_days = round((int(country_data[-1][5]) - int(country_data_30day_prior[-1][5])) / 30)
 
-        print('Avg new daily cases in last 14 days:            '.format(row)+('{:,}'.format(avg_total_cases_14_days)))
-        print('Avg new daily cases in last 30 days:            '.format(row)+('{:,}'.format(avg_total_cases_30_days)))
+        avg_cases_7_days = round((weekly_cases) / 7)
 
-        print('Avg new daily deaths in last 30 days:             '.format(row)+('{:,}'.format(avg_deaths_30_days)))
+        print('07-Day average of new daily cases:             '.format(row)+('{:,}'.format(avg_cases_7_days)))
 
-        print("Total lives lost since last",day_of_week,":                       ".format(row)+('{:,}'.format(total_lives_lost)))
+        print('14-Day average of new daily cases:             '.format(row)+('{:,}'.format(avg_cases_14_days)))
 
-        if int(country_data[-1][4]) > (double_total_cases_30days_ago):
-            print('Total cases if doubled in last 30 days: **HOT_SPOT')
+        print('30-Day average of new daily cases:             '.format(row)+('{:,}'.format(avg_cases_30_days)))
+
+        print('30-Day average of new daily deaths:               '.format(row)+('{:,}'.format(avg_deaths_30_days)))
+
+        print("7-Day total of lives lost since",day_of_week,":                ".format(row)+('{:,}'.format(weekly_deaths)))
+
+        total_cases = int(country_data[-1][4])
+        doubled_cases_30days_ago = int(country_data_30day_prior[-1][4]) * 2
+        quadrupled_cases_30days_ago = (doubled_cases_30days_ago) * 2
+
+        print("Today's case total:                                    ".format(row)+('{:,}'.format(total_cases)))
+        print('30-Day doubled case total:                      '.format(row)+('{:,}'.format(doubled_cases_30days_ago)))
+
+        if int(country_data[-1][4]) >= (doubled_cases_30days_ago) and int(country_data[-1][4]) < (quadrupled_cases_30days_ago):
+            print('30-Day doubled case total? Yes      **HOT_SPOT')
+        elif int(country_data[-1][4]) >= (quadrupled_cases_30days_ago):
+            print('30-Day quadrupled case total? Yes *SMOKIN_HOT')
         else:
-            print('Total cases if doubled in last 30 days:       Negative')
+            print('30-Day case total,doubled?           NOT DOUBLED')
 
         print('\n')
-
