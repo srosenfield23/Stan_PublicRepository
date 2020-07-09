@@ -1,0 +1,1668 @@
+Stats for World:
+This is Covid19 data for: July 09, 2020
+New cases are:            214,930
+Weekly cases are:        1,350,916
+Biweekly cases are:      2,616,114
+Total cases are:       12,017,118
+==========================
+New deaths are:              5,370
+Weekly deaths are:         33,304
+Biweekly deaths are:      66,787
+Total deaths are:        549,276
+==============================
+World Population: 7,794,798,729
+==============================
+%Increase of new cases over yesterday:      29.1 %
+%Increase of new cases over week_ago:       7.35 %
+Rise in weekly infection rate:             1.88 %
+Rates of infection/10k capita (today):            27.57 %
+Rates of infection/10k capita (week_ago): 25.69 %
+Rate of avg weekly cases/100k capita:       2.48
+Rate of new deaths/100k capita(goal < .03):  0.07
+Deaths per 100,000 capita (today):          7.05
+Deaths per 100,000 capita (week_ago):       6.62
+New cases rate (today vs yesterday):         0.35 %
+New cases rate (today vs week_ago):         -0.09 %
+New death rate (today vs yesterday):         0.28 %
+New death rate (today vs week_ago):          0.02 %
+Fatality rate(total death over total case):  4.57 %
+07-Day ratio of new over weekly deaths:       16 %
+Increase in total cases since last Thu :     12.7 %
+Percent of new cases above 14 day avg:       15.0
+Percent of new cases above 30 day avg:     30.7
+07-Day average of new daily cases:          192,988
+14-Day average of new daily cases:          186,865
+30-Day average of new daily cases:          164,388
+30-Day average of new daily deaths:            4,766
+7-Day total of lives lost since Thu :        33,304
+Today's case total:                          12,017,118
+30-Day doubled case total:                   14,170,928
+30-Day case total,doubled?               NOT DOUBLED
+
+
+Stats for United States:
+This is Covid19 data for: July 09, 2020
+New cases are:            58,906
+Weekly cases are:        368,524
+Biweekly cases are:      673,643
+Total cases are:       3,055,004
+==========================
+New deaths are:              829
+Weekly deaths are:         4,247
+Biweekly deaths are:      10,330
+Total deaths are:        132,309
+==============================
+United States Population: 331,002,647
+==============================
+%Increase of new cases over yesterday:      17.84 %
+%Increase of new cases over week_ago:       13.18 %
+Rise in weekly infection rate:             20.72 %
+Rates of infection/10k capita (today):            178 %
+Rates of infection/10k capita (week_ago): 157 %
+Rate of avg weekly cases/100k capita:       15.91
+Rate of new deaths/100k capita(goal < .03):  0.25
+Deaths per 100,000 capita (today):          39.97
+Deaths per 100,000 capita (week_ago):       38.69
+New cases rate (today vs yesterday):         0.23 %
+New cases rate (today vs week_ago):         -0.01 %
+New death rate (today vs yesterday):         0.35 %
+New death rate (today vs week_ago):          0.12 %
+Fatality rate(total death over total case):  4.33 %
+07-Day ratio of new over weekly deaths:       20 %
+Increase in total cases since last Thu :     13.7 %
+Percent of new cases above 14 day avg:       22.4
+Percent of new cases above 30 day avg:     61.6
+07-Day average of new daily cases:          52,646
+14-Day average of new daily cases:          48,117
+30-Day average of new daily cases:          36,461
+30-Day average of new daily deaths:            710
+7-Day total of lives lost since Thu :        4,247
+Today's case total:                          3,055,004
+30-Day doubled case total:                   3,922,370
+30-Day case total,doubled?               NOT DOUBLED
+
+
+Stats for United Kingdom:
+This is Covid19 data for: July 09, 2020
+New cases are:            630
+Weekly cases are:        -26,504
+Biweekly cases are:      -19,883
+Total cases are:       286,979
+==========================
+New deaths are:              126
+Weekly deaths are:         611
+Biweekly deaths are:      1,436
+Total deaths are:        44,517
+==============================
+United Kingdom Population: 67,886,004
+==============================
+%Increase of new cases over yesterday:      78.98 %
+%Decrease of new cases over week_ago:      -24.0 %
+Fall in weekly infection rate:                        -2.93 %
+Rates of infection/10k capita (today):            9.28 %
+Rates of infection/10k capita (week_ago): 12.21 %
+Rate of avg weekly cases/100k capita:       -5.58
+Rate of new deaths/100k capita(goal < .03):  0.19
+Deaths per 100,000 capita (today):          65.58
+Deaths per 100,000 capita (week_ago):       64.68
+New cases rate (today vs yesterday):         0.1 %
+New cases rate (today vs week_ago):         -0.04 %
+New death rate (today vs yesterday):         0.25 %
+New death rate (today vs week_ago):          -0.12 %
+Fatality rate(total death over total case):  15.51 %
+07-Day ratio of new over weekly deaths:       21 %
+Decrease in total cases since last Thu :     -8.5 %
+Percent of new cases above 14 day avg:       -144
+Percent of new cases above 30 day avg:     -4600
+07-Day average of new daily cases:          -3,786
+14-Day average of new daily cases:          -1,420
+30-Day average of new daily cases:          -14.0
+30-Day average of new daily deaths:            131
+7-Day total of lives lost since Thu :        611
+Today's case total:                          286,979
+30-Day doubled case total:                   574,798
+30-Day case total,doubled?               NOT DOUBLED
+
+
+Stats for Sweden:
+This is Covid19 data for: July 09, 2020
+New cases are:            514
+Weekly cases are:        4,166
+Biweekly cases are:      11,534
+Total cases are:       73,858
+==========================
+New deaths are:              35
+Weekly deaths are:         112
+Biweekly deaths are:      273
+Total deaths are:        5,482
+==============================
+Sweden Population: 10,099,270
+==============================
+%Decrease of new cases over yesterday:     -68.7 %
+%Decrease of new cases over week_ago:      -58.58 %
+Fall in weekly infection rate:                        -71.99 %
+Rates of infection/10k capita (today):            50.89 %
+Rates of infection/10k capita (week_ago): 123 %
+Rate of avg weekly cases/100k capita:       5.89
+Rate of new deaths/100k capita(goal < .03):  0.35
+Deaths per 100,000 capita (today):          54.28
+Deaths per 100,000 capita (week_ago):       53.17
+New cases rate (today vs yesterday):         -1.55 %
+New cases rate (today vs week_ago):         -1.08 %
+New death rate (today vs yesterday):         0.4 %
+New death rate (today vs week_ago):          -0.05 %
+Fatality rate(total death over total case):  7.42 %
+07-Day ratio of new over weekly deaths:       31 %
+Increase in total cases since last Thu :     6.0 %
+Percent of new cases below 14 day avg:       -37.6
+Percent of new cases below 30 day avg:     -46.3
+07-Day average of new daily cases:          595
+14-Day average of new daily cases:          824
+30-Day average of new daily cases:          958
+30-Day average of new daily deaths:            26
+7-Day total of lives lost since Thu :        112
+Today's case total:                          73,858
+30-Day doubled case total:                   90,266
+30-Day case total,doubled?               NOT DOUBLED
+
+
+Stats for Portugal:
+This is Covid19 data for: July 09, 2020
+New cases are:            443
+Weekly cases are:        2,405
+Biweekly cases are:      4,755
+Total cases are:       44,859
+==========================
+New deaths are:              2
+Weekly deaths are:         52
+Biweekly deaths are:      88
+Total deaths are:        1,631
+==============================
+Portugal Population: 10,196,707
+==============================
+%Increase of new cases over yesterday:      90.95 %
+%Increase of new cases over week_ago:       41.53 %
+Rise in weekly infection rate:             12.75 %
+Rates of infection/10k capita (today):            43.45 %
+Rates of infection/10k capita (week_ago): 30.7 %
+Rate of avg weekly cases/100k capita:       3.37
+Rate of new deaths/100k capita(goal < .03):  0.02
+Deaths per 100,000 capita (today):          16.0
+Deaths per 100,000 capita (week_ago):       15.49
+New cases rate (today vs yesterday):         0.46 %
+New cases rate (today vs week_ago):         0.25 %
+New death rate (today vs yesterday):         -0.25 %
+New death rate (today vs week_ago):          -0.07 %
+Fatality rate(total death over total case):  3.64 %
+07-Day ratio of new over weekly deaths:       4 %
+Increase in total cases since last Thu :     5.7 %
+Percent of new cases above 14 day avg:       30.4
+Percent of new cases above 30 day avg:     33.2
+07-Day average of new daily cases:          344
+14-Day average of new daily cases:          340
+30-Day average of new daily cases:          332
+30-Day average of new daily deaths:            5
+7-Day total of lives lost since Thu :        52
+Today's case total:                          44,859
+30-Day doubled case total:                   69,770
+30-Day case total,doubled?               NOT DOUBLED
+
+
+Stats for Mexico:
+This is Covid19 data for: July 09, 2020
+New cases are:            6,995
+Weekly cases are:        43,233
+Biweekly cases are:      78,156
+Total cases are:       275,003
+==========================
+New deaths are:              782
+Weekly deaths are:         4,286
+Biweekly deaths are:      8,454
+Total deaths are:        32,796
+==============================
+Mexico Population: 128,932,753
+==============================
+%Increase of new cases over yesterday:      42.7 %
+%Increase of new cases over week_ago:       23.13 %
+Rise in weekly infection rate:             10.19 %
+Rates of infection/10k capita (today):            54.25 %
+Rates of infection/10k capita (week_ago): 44.06 %
+Rate of avg weekly cases/100k capita:       4.79
+Rate of new deaths/100k capita(goal < .03):  0.61
+Deaths per 100,000 capita (today):          25.44
+Deaths per 100,000 capita (week_ago):       22.11
+New cases rate (today vs yesterday):         0.67 %
+New cases rate (today vs week_ago):         0.09 %
+New death rate (today vs yesterday):         0.84 %
+New death rate (today vs week_ago):          -0.21 %
+Fatality rate(total death over total case):  11.93 %
+07-Day ratio of new over weekly deaths:       18 %
+Increase in total cases since last Thu :     18.7 %
+Percent of new cases above 14 day avg:       25.3
+Percent of new cases above 30 day avg:     35.5
+07-Day average of new daily cases:          6,176
+14-Day average of new daily cases:          5,583
+30-Day average of new daily cases:          5,163
+30-Day average of new daily deaths:            625
+7-Day total of lives lost since Thu :        4,286
+Today's case total:                          275,003
+30-Day doubled case total:                   240,204
+30-Day doubled case total? Yes      **HOT_SPOT
+
+
+Stats for Honduras:
+This is Covid19 data for: July 09, 2020
+New cases are:            550
+Weekly cases are:        5,716
+Biweekly cases are:      11,407
+Total cases are:       25,978
+==========================
+New deaths are:              17
+Weekly deaths are:         152
+Biweekly deaths are:      277
+Total deaths are:        694
+==============================
+Honduras Population: 9,904,608
+==============================
+%Decrease of new cases over yesterday:     -23.82 %
+%Decrease of new cases over week_ago:      -21.88 %
+Fall in weekly infection rate:                        -15.55 %
+Rates of infection/10k capita (today):            55.53 %
+Rates of infection/10k capita (week_ago): 71.08 %
+Rate of avg weekly cases/100k capita:       8.24
+Rate of new deaths/100k capita(goal < .03):  0.17
+Deaths per 100,000 capita (today):          7.01
+Deaths per 100,000 capita (week_ago):       5.47
+New cases rate (today vs yesterday):         -0.81 %
+New cases rate (today vs week_ago):         -1.36 %
+New death rate (today vs yesterday):         -0.14 %
+New death rate (today vs week_ago):          -5.85 %
+Fatality rate(total death over total case):  2.67 %
+07-Day ratio of new over weekly deaths:       11 %
+Increase in total cases since last Thu :     28.2 %
+Percent of new cases below 14 day avg:       -32.5
+Percent of new cases below 30 day avg:     -15.5
+07-Day average of new daily cases:          817
+14-Day average of new daily cases:          815
+30-Day average of new daily cases:          651
+30-Day average of new daily deaths:            14
+7-Day total of lives lost since Thu :        152
+Today's case total:                          25,978
+30-Day doubled case total:                   12,900
+30-Day quadrupled case total? Yes *SMOKIN_HOT
+
+
+Stats for Guatemala:
+This is Covid19 data for: July 09, 2020
+New cases are:            624
+Weekly cases are:        6,400
+Biweekly cases are:      10,592
+Total cases are:       25,411
+==========================
+New deaths are:              49
+Weekly deaths are:         236
+Biweekly deaths are:      452
+Total deaths are:        1,053
+==============================
+Guatemala Population: 17,915,567
+==============================
+%Decrease of new cases over yesterday:     -13.81 %
+%Decrease of new cases over week_ago:      -31.8 %
+Fall in weekly infection rate:                        -16.24 %
+Rates of infection/10k capita (today):            34.83 %
+Rates of infection/10k capita (week_ago): 51.07 %
+Rate of avg weekly cases/100k capita:       5.1
+Rate of new deaths/100k capita(goal < .03):  0.27
+Deaths per 100,000 capita (today):          5.88
+Deaths per 100,000 capita (week_ago):       4.56
+New cases rate (today vs yesterday):         -0.56 %
+New cases rate (today vs week_ago):         -2.36 %
+New death rate (today vs yesterday):         1.19 %
+New death rate (today vs week_ago):          -0.73 %
+Fatality rate(total death over total case):  4.14 %
+07-Day ratio of new over weekly deaths:       21 %
+Increase in total cases since last Thu :     33.7 %
+Percent of new cases below 14 day avg:       -17.5
+Percent of new cases above 30 day avg:     4.5
+07-Day average of new daily cases:          914
+14-Day average of new daily cases:          757
+30-Day average of new daily cases:          597
+30-Day average of new daily deaths:            26
+7-Day total of lives lost since Thu :        236
+Today's case total:                          25,411
+30-Day doubled case total:                   15,004
+30-Day doubled case total? Yes      **HOT_SPOT
+
+
+Stats for Russia:
+This is Covid19 data for: July 09, 2020
+New cases are:            6,562
+Weekly cases are:        46,387
+Biweekly cases are:      93,911
+Total cases are:       700,792
+==========================
+New deaths are:              173
+Weekly deaths are:         1,131
+Biweekly deaths are:      2,154
+Total deaths are:        10,667
+==============================
+Russia Population: 145,934,460
+==============================
+%Decrease of new cases over yesterday:     -0.74 %
+%Increase of new cases over week_ago:       0.09 %
+Rise in weekly infection rate:             0.05 %
+Rates of infection/10k capita (today):            44.97 %
+Rates of infection/10k capita (week_ago): 44.92 %
+Rate of avg weekly cases/100k capita:       4.54
+Rate of new deaths/100k capita(goal < .03):  0.12
+Deaths per 100,000 capita (today):          7.31
+Deaths per 100,000 capita (week_ago):       6.53
+New cases rate (today vs yesterday):         -0.02 %
+New cases rate (today vs week_ago):         -0.07 %
+New death rate (today vs yesterday):         0.31 %
+New death rate (today vs week_ago):          -0.64 %
+Fatality rate(total death over total case):  1.52 %
+07-Day ratio of new over weekly deaths:       15 %
+Increase in total cases since last Thu :     7.1 %
+Percent of new cases below 14 day avg:       -2.2
+Percent of new cases below 30 day avg:     -12.2
+07-Day average of new daily cases:          6,627
+14-Day average of new daily cases:          6,708
+30-Day average of new daily cases:          7,471
+30-Day average of new daily deaths:            157
+7-Day total of lives lost since Thu :        1,131
+Today's case total:                          700,792
+30-Day doubled case total:                   953,316
+30-Day case total,doubled?               NOT DOUBLED
+
+
+Stats for Ukraine:
+This is Covid19 data for: July 09, 2020
+New cases are:            810
+Weekly cases are:        6,226
+Biweekly cases are:      12,210
+Total cases are:       51,224
+==========================
+New deaths are:              21
+Weekly deaths are:         154
+Biweekly deaths are:      276
+Total deaths are:        1,327
+==============================
+Ukraine Population: 43,733,759
+==============================
+%Increase of new cases over yesterday:      43.62 %
+Rise in weekly infection rate:             18.52 %
+Rates of infection/10k capita (today):            18.52 %
+Rates of infection/10k capita (week_ago): 0.0 %
+Rate of avg weekly cases/100k capita:       2.03
+Rate of new deaths/100k capita(goal < .03):  0.05
+Deaths per 100,000 capita (today):          3.03
+Deaths per 100,000 capita (week_ago):       2.68
+New cases rate (today vs yesterday):         0.44 %
+New cases rate (today vs week_ago):         1.58 %
+New death rate (today vs yesterday):         -0.05 %
+New death rate (today vs week_ago):          1.58 %
+Fatality rate(total death over total case):  2.59 %
+07-Day ratio of new over weekly deaths:       14 %
+Increase in total cases since last Thu :     13.8 %
+Percent of new cases below 14 day avg:       -7.1
+Percent of new cases above 30 day avg:     2.3
+07-Day average of new daily cases:          889
+14-Day average of new daily cases:          872
+30-Day average of new daily cases:          792
+30-Day average of new daily deaths:            18
+7-Day total of lives lost since Thu :        154
+Today's case total:                          51,224
+30-Day doubled case total:                   54,924
+30-Day case total,doubled?               NOT DOUBLED
+
+
+Stats for Armenia:
+This is Covid19 data for: July 09, 2020
+New cases are:            535
+Weekly cases are:        3,755
+Biweekly cases are:      8,103
+Total cases are:       29,820
+==========================
+New deaths are:              18
+Weekly deaths are:         68
+Biweekly deaths are:      135
+Total deaths are:        521
+==============================
+Armenia Population: 2,963,234
+==============================
+%Increase of new cases over yesterday:      62.12 %
+%Increase of new cases over week_ago:       2.29 %
+Rise in weekly infection rate:             4.05 %
+Rates of infection/10k capita (today):            181 %
+Rates of infection/10k capita (week_ago): 176 %
+Rate of avg weekly cases/100k capita:       18.1
+Rate of new deaths/100k capita(goal < .03):  0.61
+Deaths per 100,000 capita (today):          17.58
+Deaths per 100,000 capita (week_ago):       15.29
+New cases rate (today vs yesterday):         0.65 %
+New cases rate (today vs week_ago):         -0.21 %
+New death rate (today vs yesterday):         2.03 %
+New death rate (today vs week_ago):          1.25 %
+Fatality rate(total death over total case):  1.75 %
+07-Day ratio of new over weekly deaths:       26 %
+Increase in total cases since last Thu :     14.4 %
+Percent of new cases below 14 day avg:       -7.6
+Percent of new cases below 30 day avg:     -2.7
+07-Day average of new daily cases:          536
+14-Day average of new daily cases:          579
+30-Day average of new daily cases:          550
+30-Day average of new daily deaths:            10
+7-Day total of lives lost since Thu :        68
+Today's case total:                          29,820
+30-Day doubled case total:                   26,650
+30-Day doubled case total? Yes      **HOT_SPOT
+
+
+Stats for Moldova:
+This is Covid19 data for: July 09, 2020
+New cases are:            330
+Weekly cases are:        1,573
+Biweekly cases are:      3,393
+Total cases are:       18,471
+==========================
+New deaths are:              11
+Weekly deaths are:         65
+Biweekly deaths are:      119
+Total deaths are:        614
+==============================
+Moldova Population: 4,033,963
+==============================
+%Increase of new cases over yesterday:      259 %
+%Increase of new cases over week_ago:       15.79 %
+Rise in weekly infection rate:             11.16 %
+Rates of infection/10k capita (today):            81.81 %
+Rates of infection/10k capita (week_ago): 70.65 %
+Rate of avg weekly cases/100k capita:       5.57
+Rate of new deaths/100k capita(goal < .03):  0.27
+Deaths per 100,000 capita (today):          15.22
+Deaths per 100,000 capita (week_ago):       13.61
+New cases rate (today vs yesterday):         1.27 %
+New cases rate (today vs week_ago):         0.1 %
+New death rate (today vs yesterday):         0.11 %
+New death rate (today vs week_ago):          1.06 %
+Fatality rate(total death over total case):  3.32 %
+07-Day ratio of new over weekly deaths:       17 %
+Increase in total cases since last Thu :     9.3 %
+Percent of new cases above 14 day avg:       36.2
+Percent of new cases above 30 day avg:     14.3
+07-Day average of new daily cases:          225
+14-Day average of new daily cases:          242
+30-Day average of new daily cases:          289
+30-Day average of new daily deaths:            9
+7-Day total of lives lost since Thu :        65
+Today's case total:                          18,471
+30-Day doubled case total:                   19,614
+30-Day case total,doubled?               NOT DOUBLED
+
+
+Stats for North Macedonia:
+This is Covid19 data for: July 09, 2020
+New cases are:            161
+Weekly cases are:        931
+Biweekly cases are:      1,951
+Total cases are:       7,401
+==========================
+New deaths are:              8
+Weekly deaths are:         53
+Biweekly deaths are:      100
+Total deaths are:        359
+==============================
+North Macedonia Population: 2,083,380
+==============================
+%Increase of new cases over yesterday:      112 %
+%Increase of new cases over week_ago:       34.17 %
+Rise in weekly infection rate:             19.68 %
+Rates of infection/10k capita (today):            77.28 %
+Rates of infection/10k capita (week_ago): 57.6 %
+Rate of avg weekly cases/100k capita:       6.38
+Rate of new deaths/100k capita(goal < .03):  0.38
+Deaths per 100,000 capita (today):          17.23
+Deaths per 100,000 capita (week_ago):       14.69
+New cases rate (today vs yesterday):         1.11 %
+New cases rate (today vs week_ago):         0.32 %
+New death rate (today vs yesterday):         0.78 %
+New death rate (today vs week_ago):          0.92 %
+Fatality rate(total death over total case):  4.85 %
+07-Day ratio of new over weekly deaths:       15 %
+Increase in total cases since last Thu :     14.4 %
+Percent of new cases above 14 day avg:       15.5
+Percent of new cases above 30 day avg:     13.8
+07-Day average of new daily cases:          133
+14-Day average of new daily cases:          139
+30-Day average of new daily cases:          142
+30-Day average of new daily deaths:            7
+7-Day total of lives lost since Thu :        53
+Today's case total:                          7,401
+30-Day doubled case total:                   6,310
+30-Day doubled case total? Yes      **HOT_SPOT
+
+
+Stats for Bangladesh:
+This is Covid19 data for: July 09, 2020
+New cases are:            3,489
+Weekly cases are:        22,876
+Biweekly cases are:      49,474
+Total cases are:       172,134
+==========================
+New deaths are:              46
+Weekly deaths are:         309
+Biweekly deaths are:      615
+Total deaths are:        2,197
+==============================
+Bangladesh Population: 164,689,383
+==============================
+%Increase of new cases over yesterday:      9.0 %
+%Decrease of new cases over week_ago:      -7.58 %
+Fall in weekly infection rate:                        -1.73 %
+Rates of infection/10k capita (today):            21.19 %
+Rates of infection/10k capita (week_ago): 22.92 %
+Rate of avg weekly cases/100k capita:       1.98
+Rate of new deaths/100k capita(goal < .03):  0.03
+Deaths per 100,000 capita (today):          1.33
+Deaths per 100,000 capita (week_ago):       1.15
+New cases rate (today vs yesterday):         0.09 %
+New cases rate (today vs week_ago):         -0.5 %
+New death rate (today vs yesterday):         -0.01 %
+New death rate (today vs week_ago):          -0.08 %
+Fatality rate(total death over total case):  1.28 %
+07-Day ratio of new over weekly deaths:       15 %
+Increase in total cases since last Thu :     15.3 %
+Percent of new cases below 14 day avg:       -1.3
+Percent of new cases above 30 day avg:     1.0
+07-Day average of new daily cases:          3,268
+14-Day average of new daily cases:          3,534
+30-Day average of new daily cases:          3,454
+30-Day average of new daily deaths:            42
+7-Day total of lives lost since Thu :        309
+Today's case total:                          172,134
+30-Day doubled case total:                   137,008
+30-Day doubled case total? Yes      **HOT_SPOT
+
+
+Stats for India:
+This is Covid19 data for: July 09, 2020
+New cases are:            24,879
+Weekly cases are:        162,655
+Biweekly cases are:      294,191
+Total cases are:       767,296
+==========================
+New deaths are:              487
+Weekly deaths are:         3,295
+Biweekly deaths are:      6,235
+Total deaths are:        21,129
+==============================
+India Population: 1,380,004,385
+==============================
+%Increase of new cases over yesterday:      11.81 %
+%Increase of new cases over week_ago:       29.93 %
+Rise in weekly infection rate:             4.15 %
+Rates of infection/10k capita (today):            18.03 %
+Rates of infection/10k capita (week_ago): 13.88 %
+Rate of avg weekly cases/100k capita:       1.68
+Rate of new deaths/100k capita(goal < .03):  0.04
+Deaths per 100,000 capita (today):          1.53
+Deaths per 100,000 capita (week_ago):       1.29
+New cases rate (today vs yesterday):         0.15 %
+New cases rate (today vs week_ago):         0.08 %
+New death rate (today vs yesterday):         -0.01 %
+New death rate (today vs week_ago):          -0.13 %
+Fatality rate(total death over total case):  2.75 %
+07-Day ratio of new over weekly deaths:       15 %
+Increase in total cases since last Thu :     26.9 %
+Percent of new cases above 14 day avg:       18.4
+Percent of new cases above 30 day avg:     49.1
+07-Day average of new daily cases:          23,236
+14-Day average of new daily cases:          21,014
+30-Day average of new daily cases:          16,690
+30-Day average of new daily deaths:            455
+7-Day total of lives lost since Thu :        3,295
+Today's case total:                          767,296
+30-Day doubled case total:                   533,196
+30-Day doubled case total? Yes      **HOT_SPOT
+
+
+Stats for Pakistan:
+This is Covid19 data for: July 09, 2020
+New cases are:            3,359
+Weekly cases are:        23,039
+Biweekly cases are:      47,878
+Total cases are:       240,848
+==========================
+New deaths are:              61
+Weekly deaths are:         510
+Biweekly deaths are:      1,080
+Total deaths are:        4,983
+==============================
+Pakistan Population: 220,892,331
+==============================
+%Increase of new cases over yesterday:      24.82 %
+%Decrease of new cases over week_ago:      -22.59 %
+Fall in weekly infection rate:                        -4.43 %
+Rates of infection/10k capita (today):            15.21 %
+Rates of infection/10k capita (week_ago): 19.64 %
+Rate of avg weekly cases/100k capita:       1.49
+Rate of new deaths/100k capita(goal < .03):  0.03
+Deaths per 100,000 capita (today):          2.26
+Deaths per 100,000 capita (week_ago):       2.02
+New cases rate (today vs yesterday):         0.25 %
+New cases rate (today vs week_ago):         -0.6 %
+New death rate (today vs yesterday):         -0.37 %
+New death rate (today vs week_ago):          -0.52 %
+Fatality rate(total death over total case):  2.07 %
+07-Day ratio of new over weekly deaths:       12 %
+Increase in total cases since last Thu :     10.6 %
+Percent of new cases below 14 day avg:       -1.8
+Percent of new cases below 30 day avg:     -24.0
+07-Day average of new daily cases:          3,291
+14-Day average of new daily cases:          3,420
+30-Day average of new daily cases:          4,418
+30-Day average of new daily deaths:            94
+7-Day total of lives lost since Thu :        510
+Today's case total:                          240,848
+30-Day doubled case total:                   216,634
+30-Day doubled case total? Yes      **HOT_SPOT
+
+
+Stats for Turkey:
+This is Covid19 data for: July 09, 2020
+New cases are:            1,041
+Weekly cases are:        7,840
+Biweekly cases are:      17,281
+Total cases are:       208,938
+==========================
+New deaths are:              22
+Weekly deaths are:         132
+Biweekly deaths are:      257
+Total deaths are:        5,282
+==============================
+Turkey Population: 84,339,067
+==============================
+%Decrease of new cases over yesterday:     -4.14 %
+%Decrease of new cases over week_ago:      -12.67 %
+Fall in weekly infection rate:                        -1.79 %
+Rates of infection/10k capita (today):            12.34 %
+Rates of infection/10k capita (week_ago): 14.13 %
+Rate of avg weekly cases/100k capita:       1.33
+Rate of new deaths/100k capita(goal < .03):  0.03
+Deaths per 100,000 capita (today):          6.26
+Deaths per 100,000 capita (week_ago):       6.11
+New cases rate (today vs yesterday):         -0.03 %
+New cases rate (today vs week_ago):         -0.09 %
+New death rate (today vs yesterday):         0.11 %
+New death rate (today vs week_ago):          0.05 %
+Fatality rate(total death over total case):  2.53 %
+07-Day ratio of new over weekly deaths:       17 %
+Increase in total cases since last Thu :     3.9 %
+Percent of new cases below 14 day avg:       -15.7
+Percent of new cases below 30 day avg:     -17.4
+07-Day average of new daily cases:          1,120
+14-Day average of new daily cases:          1,234
+30-Day average of new daily cases:          1,261
+30-Day average of new daily deaths:            19
+7-Day total of lives lost since Thu :        132
+Today's case total:                          208,938
+30-Day doubled case total:                   342,242
+30-Day case total,doubled?               NOT DOUBLED
+
+
+Stats for Iraq:
+This is Covid19 data for: July 09, 2020
+New cases are:            2,741
+Weekly cases are:        15,918
+Biweekly cases are:      30,740
+Total cases are:       67,442
+==========================
+New deaths are:              94
+Weekly deaths are:         729
+Biweekly deaths are:      1,449
+Total deaths are:        2,779
+==============================
+Iraq Population: 40,222,503
+==============================
+%Increase of new cases over yesterday:      52.62 %
+%Increase of new cases over week_ago:       13.5 %
+Rise in weekly infection rate:             8.11 %
+Rates of infection/10k capita (today):            68.15 %
+Rates of infection/10k capita (week_ago): 60.04 %
+Rate of avg weekly cases/100k capita:       5.65
+Rate of new deaths/100k capita(goal < .03):  0.23
+Deaths per 100,000 capita (today):          6.91
+Deaths per 100,000 capita (week_ago):       5.1
+New cases rate (today vs yesterday):         1.18 %
+New cases rate (today vs week_ago):         -0.62 %
+New death rate (today vs yesterday):         -0.28 %
+New death rate (today vs week_ago):          -1.84 %
+Fatality rate(total death over total case):  4.12 %
+07-Day ratio of new over weekly deaths:       13 %
+Increase in total cases since last Thu :     30.9 %
+Percent of new cases above 14 day avg:       24.8
+Percent of new cases above 30 day avg:     52.4
+07-Day average of new daily cases:          2,274
+14-Day average of new daily cases:          2,196
+30-Day average of new daily cases:          1,799
+30-Day average of new daily deaths:            80
+7-Day total of lives lost since Thu :        729
+Today's case total:                          67,442
+30-Day doubled case total:                   26,962
+30-Day quadrupled case total? Yes *SMOKIN_HOT
+
+
+Stats for Iran:
+This is Covid19 data for: July 09, 2020
+New cases are:            2,691
+Weekly cases are:        18,168
+Biweekly cases are:      35,878
+Total cases are:       248,379
+==========================
+New deaths are:              153
+Weekly deaths are:         1,126
+Biweekly deaths are:      2,088
+Total deaths are:        12,084
+==============================
+Iran Population: 83,992,953
+==============================
+%Increase of new cases over yesterday:      2.99 %
+%Increase of new cases over week_ago:       5.57 %
+Rise in weekly infection rate:             1.69 %
+Rates of infection/10k capita (today):            32.04 %
+Rates of infection/10k capita (week_ago): 30.35 %
+Rate of avg weekly cases/100k capita:       3.09
+Rate of new deaths/100k capita(goal < .03):  0.18
+Deaths per 100,000 capita (today):          14.39
+Deaths per 100,000 capita (week_ago):       13.05
+New cases rate (today vs yesterday):         0.01 %
+New cases rate (today vs week_ago):         -0.02 %
+New death rate (today vs yesterday):         -0.1 %
+New death rate (today vs week_ago):          -0.02 %
+Fatality rate(total death over total case):  4.87 %
+07-Day ratio of new over weekly deaths:       14 %
+Increase in total cases since last Thu :     7.9 %
+Percent of new cases above 14 day avg:       5.0
+Percent of new cases above 30 day avg:     8.3
+07-Day average of new daily cases:          2,595
+14-Day average of new daily cases:          2,563
+30-Day average of new daily cases:          2,485
+30-Day average of new daily deaths:            124
+7-Day total of lives lost since Thu :        1,126
+Today's case total:                          248,379
+30-Day doubled case total:                   347,664
+30-Day case total,doubled?               NOT DOUBLED
+
+
+Stats for Saudi Arabia:
+This is Covid19 data for: July 09, 2020
+New cases are:            3,036
+Weekly cases are:        25,919
+Biweekly cases are:      52,877
+Total cases are:       220,144
+==========================
+New deaths are:              42
+Weekly deaths are:         361
+Biweekly deaths are:      672
+Total deaths are:        2,059
+==============================
+Saudi Arabia Population: 34,813,867
+==============================
+%Decrease of new cases over yesterday:     -27.83 %
+%Decrease of new cases over week_ago:      -10.76 %
+Fall in weekly infection rate:                        -10.51 %
+Rates of infection/10k capita (today):            87.21 %
+Rates of infection/10k capita (week_ago): 97.72 %
+Rate of avg weekly cases/100k capita:       10.64
+Rate of new deaths/100k capita(goal < .03):  0.12
+Deaths per 100,000 capita (today):          5.91
+Deaths per 100,000 capita (week_ago):       4.88
+New cases rate (today vs yesterday):         -0.59 %
+New cases rate (today vs week_ago):         -0.37 %
+New death rate (today vs yesterday):         -0.6 %
+New death rate (today vs week_ago):          -0.85 %
+Fatality rate(total death over total case):  0.94 %
+07-Day ratio of new over weekly deaths:       12 %
+Increase in total cases since last Thu :     13.3 %
+Percent of new cases below 14 day avg:       -19.6
+Percent of new cases below 30 day avg:     -20.7
+07-Day average of new daily cases:          3,703
+14-Day average of new daily cases:          3,777
+30-Day average of new daily cases:          3,829
+30-Day average of new daily deaths:            44
+7-Day total of lives lost since Thu :        361
+Today's case total:                          220,144
+30-Day doubled case total:                   210,566
+30-Day doubled case total? Yes      **HOT_SPOT
+
+
+Stats for Qatar:
+This is Covid19 data for: July 09, 2020
+New cases are:            608
+Weekly cases are:        4,550
+Biweekly cases are:      10,775
+Total cases are:       101,553
+==========================
+New deaths are:              4
+Weekly deaths are:         23
+Biweekly deaths are:      34
+Total deaths are:        138
+==============================
+Qatar Population: 2,881,060
+==============================
+%Increase of new cases over yesterday:      11.36 %
+%Decrease of new cases over week_ago:      -33.55 %
+Fall in weekly infection rate:                        -107 %
+Rates of infection/10k capita (today):            211 %
+Rates of infection/10k capita (week_ago): 318 %
+Rate of avg weekly cases/100k capita:       22.56
+Rate of new deaths/100k capita(goal < .03):  0.14
+Deaths per 100,000 capita (today):          4.79
+Deaths per 100,000 capita (week_ago):       3.99
+New cases rate (today vs yesterday):         0.05 %
+New cases rate (today vs week_ago):         -0.34 %
+New death rate (today vs yesterday):         -0.86 %
+New death rate (today vs week_ago):          1.16 %
+Fatality rate(total death over total case):  0.14 %
+07-Day ratio of new over weekly deaths:       17 %
+Increase in total cases since last Thu :     4.7 %
+Percent of new cases below 14 day avg:       -21.0
+Percent of new cases below 30 day avg:     -41.9
+07-Day average of new daily cases:          650
+14-Day average of new daily cases:          770
+30-Day average of new daily cases:          1,046
+30-Day average of new daily deaths:            2.7
+7-Day total of lives lost since Thu :        23
+Today's case total:                          101,553
+30-Day doubled case total:                   140,316
+30-Day case total,doubled?               NOT DOUBLED
+
+
+Stats for Brazil:
+This is Covid19 data for: July 09, 2020
+New cases are:            44,571
+Weekly cases are:        264,407
+Biweekly cases are:      524,529
+Total cases are:       1,713,160
+==========================
+New deaths are:              1,223
+Weekly deaths are:         7,332
+Biweekly deaths are:      14,134
+Total deaths are:        67,964
+==============================
+Brazil Population: 212,559,409
+==============================
+%Increase of new cases over yesterday:      120 %
+%Decrease of new cases over week_ago:      -4.58 %
+Fall in weekly infection rate:                        -10.07 %
+Rates of infection/10k capita (today):            210 %
+Rates of infection/10k capita (week_ago): 220 %
+Rate of avg weekly cases/100k capita:       17.77
+Rate of new deaths/100k capita(goal < .03):  0.58
+Deaths per 100,000 capita (today):          31.97
+Deaths per 100,000 capita (week_ago):       28.52
+New cases rate (today vs yesterday):         1.36 %
+New cases rate (today vs week_ago):         -0.62 %
+New death rate (today vs yesterday):         0.85 %
+New death rate (today vs week_ago):          0.09 %
+Fatality rate(total death over total case):  3.97 %
+07-Day ratio of new over weekly deaths:       17 %
+Increase in total cases since last Thu :     18.3 %
+Percent of new cases above 14 day avg:       19.0
+Percent of new cases above 30 day avg:     32.9
+07-Day average of new daily cases:          37,772
+14-Day average of new daily cases:          37,466
+30-Day average of new daily cases:          33,525
+30-Day average of new daily deaths:            1,028
+7-Day total of lives lost since Thu :        7,332
+Today's case total:                          1,713,160
+30-Day doubled case total:                   1,414,824
+30-Day doubled case total? Yes      **HOT_SPOT
+
+
+Stats for Bolivia:
+This is Covid19 data for: July 09, 2020
+New cases are:            1,439
+Weekly cases are:        8,757
+Biweekly cases are:      15,497
+Total cases are:       42,984
+==========================
+New deaths are:              47
+Weekly deaths are:         376
+Biweekly deaths are:      701
+Total deaths are:        1,577
+==============================
+Bolivia Population: 11,673,029
+==============================
+%Increase of new cases over yesterday:      18.73 %
+%Increase of new cases over week_ago:       42.76 %
+Rise in weekly infection rate:             36.93 %
+Rates of infection/10k capita (today):            123 %
+Rates of infection/10k capita (week_ago): 86.35 %
+Rate of avg weekly cases/100k capita:       10.72
+Rate of new deaths/100k capita(goal < .03):  0.4
+Deaths per 100,000 capita (today):          13.51
+Deaths per 100,000 capita (week_ago):       10.29
+New cases rate (today vs yesterday):         0.36 %
+New cases rate (today vs week_ago):         0.4 %
+New death rate (today vs yesterday):         0.13 %
+New death rate (today vs week_ago):          -3.51 %
+Fatality rate(total death over total case):  3.67 %
+07-Day ratio of new over weekly deaths:       12 %
+Increase in total cases since last Thu :     25.6 %
+Percent of new cases above 14 day avg:       30.0
+Percent of new cases above 30 day avg:     48.7
+07-Day average of new daily cases:          1,251
+14-Day average of new daily cases:          1,107
+30-Day average of new daily cases:          968
+30-Day average of new daily deaths:            37
+7-Day total of lives lost since Thu :        376
+Today's case total:                          42,984
+30-Day doubled case total:                   27,898
+30-Day doubled case total? Yes      **HOT_SPOT
+
+
+Stats for Colombia:
+This is Covid19 data for: July 09, 2020
+New cases are:            4,144
+Weekly cases are:        26,629
+Biweekly cases are:      51,525
+Total cases are:       128,638
+==========================
+New deaths are:              168
+Weekly deaths are:         1,057
+Biweekly deaths are:      2,036
+Total deaths are:        4,527
+==============================
+Colombia Population: 50,882,884
+==============================
+%Increase of new cases over yesterday:      30.68 %
+%Decrease of new cases over week_ago:      -0.46 %
+Fall in weekly infection rate:                        -0.38 %
+Rates of infection/10k capita (today):            81.44 %
+Rates of infection/10k capita (week_ago): 81.82 %
+Rate of avg weekly cases/100k capita:       7.48
+Rate of new deaths/100k capita(goal < .03):  0.33
+Deaths per 100,000 capita (today):          8.9
+Deaths per 100,000 capita (week_ago):       6.82
+New cases rate (today vs yesterday):         0.59 %
+New cases rate (today vs week_ago):         -0.86 %
+New death rate (today vs yesterday):         0.24 %
+New death rate (today vs week_ago):          -0.21 %
+Fatality rate(total death over total case):  3.52 %
+07-Day ratio of new over weekly deaths:       16 %
+Increase in total cases since last Thu :     26.1 %
+Percent of new cases above 14 day avg:       12.6
+Percent of new cases above 30 day avg:     41.4
+07-Day average of new daily cases:          3,804
+14-Day average of new daily cases:          3,680
+30-Day average of new daily cases:          2,931
+30-Day average of new daily deaths:            107
+7-Day total of lives lost since Thu :        1,057
+Today's case total:                          128,638
+30-Day doubled case total:                   81,438
+30-Day doubled case total? Yes      **HOT_SPOT
+
+
+Stats for Chile:
+This is Covid19 data for: July 09, 2020
+New cases are:            2,064
+Weekly cases are:        21,040
+Biweekly cases are:      48,667
+Total cases are:       303,083
+==========================
+New deaths are:              139
+Weekly deaths are:         820
+Biweekly deaths are:      1,842
+Total deaths are:        6,573
+==============================
+Chile Population: 19,116,209
+==============================
+%Decrease of new cases over yesterday:     -31.77 %
+%Decrease of new cases over week_ago:      -22.11 %
+Fall in weekly infection rate:                        -30.66 %
+Rates of infection/10k capita (today):            108 %
+Rates of infection/10k capita (week_ago): 139 %
+Rate of avg weekly cases/100k capita:       15.72
+Rate of new deaths/100k capita(goal < .03):  0.73
+Deaths per 100,000 capita (today):          34.38
+Deaths per 100,000 capita (week_ago):       30.09
+New cases rate (today vs yesterday):         -0.33 %
+New cases rate (today vs week_ago):         -0.26 %
+New death rate (today vs yesterday):         0.92 %
+New death rate (today vs week_ago):          0.98 %
+Fatality rate(total death over total case):  2.17 %
+07-Day ratio of new over weekly deaths:       17 %
+Increase in total cases since last Thu :     7.5 %
+Percent of new cases below 14 day avg:       -40.6
+Percent of new cases below 30 day avg:     -62.3
+07-Day average of new daily cases:          3,006
+14-Day average of new daily cases:          3,476
+30-Day average of new daily cases:          5,475
+30-Day average of new daily deaths:            144
+7-Day total of lives lost since Thu :        820
+Today's case total:                          303,083
+30-Day doubled case total:                   277,692
+30-Day doubled case total? Yes      **HOT_SPOT
+
+
+Stats for Ecuador:
+This is Covid19 data for: July 09, 2020
+New cases are:            976
+Weekly cases are:        5,964
+Biweekly cases are:      11,887
+Total cases are:       64,221
+==========================
+New deaths are:              27
+Weekly deaths are:         324
+Biweekly deaths are:      591
+Total deaths are:        4,900
+==============================
+Ecuador Population: 17,643,060
+==============================
+%Increase of new cases over yesterday:      131 %
+%Decrease of new cases over week_ago:      -46.52 %
+Fall in weekly infection rate:                        -48.12 %
+Rates of infection/10k capita (today):            55.32 %
+Rates of infection/10k capita (week_ago): 103 %
+Rate of avg weekly cases/100k capita:       4.83
+Rate of new deaths/100k capita(goal < .03):  0.15
+Deaths per 100,000 capita (today):          27.77
+Deaths per 100,000 capita (week_ago):       25.94
+New cases rate (today vs yesterday):         0.84 %
+New cases rate (today vs week_ago):         -1.61 %
+New death rate (today vs yesterday):         -0.28 %
+New death rate (today vs week_ago):          -0.52 %
+Fatality rate(total death over total case):  7.63 %
+07-Day ratio of new over weekly deaths:       8 %
+Increase in total cases since last Thu :     10.2 %
+Percent of new cases above 14 day avg:       14.9
+Percent of new cases above 30 day avg:     40.5
+07-Day average of new daily cases:          852
+14-Day average of new daily cases:          849
+30-Day average of new daily cases:          695
+30-Day average of new daily deaths:            42
+7-Day total of lives lost since Thu :        324
+Today's case total:                          64,221
+30-Day doubled case total:                   86,756
+30-Day case total,doubled?               NOT DOUBLED
+
+
+Stats for Peru:
+This is Covid19 data for: July 09, 2020
+New cases are:            3,633
+Weekly cases are:        24,434
+Biweekly cases are:      48,222
+Total cases are:       312,911
+==========================
+New deaths are:              181
+Weekly deaths are:         1,273
+Biweekly deaths are:      2,547
+Total deaths are:        11,133
+==============================
+Peru Population: 32,971,846
+==============================
+%Increase of new cases over yesterday:      21.71 %
+%Increase of new cases over week_ago:       11.31 %
+Rise in weekly infection rate:             11.19 %
+Rates of infection/10k capita (today):            110 %
+Rates of infection/10k capita (week_ago): 98.99 %
+Rate of avg weekly cases/100k capita:       10.59
+Rate of new deaths/100k capita(goal < .03):  0.55
+Deaths per 100,000 capita (today):          33.77
+Deaths per 100,000 capita (week_ago):       29.9
+New cases rate (today vs yesterday):         0.18 %
+New cases rate (today vs week_ago):         0.03 %
+New death rate (today vs yesterday):         -0.07 %
+New death rate (today vs week_ago):          -0.23 %
+Fatality rate(total death over total case):  3.56 %
+07-Day ratio of new over weekly deaths:       14 %
+Increase in total cases since last Thu :     8.5 %
+Percent of new cases above 14 day avg:       5.5
+Percent of new cases below 30 day avg:     -3.7
+07-Day average of new daily cases:          3,491
+14-Day average of new daily cases:          3,444
+30-Day average of new daily cases:          3,774
+30-Day average of new daily deaths:            185
+7-Day total of lives lost since Thu :        1,273
+Today's case total:                          312,911
+30-Day doubled case total:                   399,392
+30-Day case total,doubled?               NOT DOUBLED
+
+
+Stats for Venezuela:
+This is Covid19 data for: July 09, 2020
+New cases are:            317
+Weekly cases are:        1,948
+Biweekly cases are:      3,645
+Total cases are:       8,010
+==========================
+New deaths are:              4
+Weekly deaths are:         21
+Biweekly deaths are:      37
+Total deaths are:        75
+==============================
+Venezuela Population: 28,435,943
+==============================
+%Increase of new cases over yesterday:      30.99 %
+%Increase of new cases over week_ago:       37.83 %
+Rise in weekly infection rate:             3.06 %
+Rates of infection/10k capita (today):            11.15 %
+Rates of infection/10k capita (week_ago): 8.09 %
+Rate of avg weekly cases/100k capita:       0.98
+Rate of new deaths/100k capita(goal < .03):  0.01
+Deaths per 100,000 capita (today):          0.26
+Deaths per 100,000 capita (week_ago):       0.19
+New cases rate (today vs yesterday):         0.69 %
+New cases rate (today vs week_ago):         0.16 %
+New death rate (today vs yesterday):         -0.55 %
+New death rate (today vs week_ago):          -0.22 %
+Fatality rate(total death over total case):  0.94 %
+07-Day ratio of new over weekly deaths:       19 %
+Increase in total cases since last Thu :     32.1 %
+Percent of new cases above 14 day avg:       21.8
+Percent of new cases above 30 day avg:     71.8
+07-Day average of new daily cases:          278
+14-Day average of new daily cases:          260
+30-Day average of new daily cases:          185
+30-Day average of new daily deaths:            1.77
+7-Day total of lives lost since Thu :        21
+Today's case total:                          8,010
+30-Day doubled case total:                   4,946
+30-Day doubled case total? Yes      **HOT_SPOT
+
+
+Stats for Algeria:
+This is Covid19 data for: July 09, 2020
+New cases are:            469
+Weekly cases are:        3,076
+Biweekly cases are:      5,100
+Total cases are:       17,348
+==========================
+New deaths are:              10
+Weekly deaths are:         58
+Biweekly deaths are:      109
+Total deaths are:        978
+==============================
+Algeria Population: 43,851,043
+==============================
+%Increase of new cases over yesterday:      1.3 %
+%Increase of new cases over week_ago:       28.49 %
+Rise in weekly infection rate:             2.38 %
+Rates of infection/10k capita (today):            10.7 %
+Rates of infection/10k capita (week_ago): 8.32 %
+Rate of avg weekly cases/100k capita:       1.0
+Rate of new deaths/100k capita(goal < .03):  0.02
+Deaths per 100,000 capita (today):          2.23
+Deaths per 100,000 capita (week_ago):       2.1
+New cases rate (today vs yesterday):         -0.12 %
+New cases rate (today vs week_ago):         0.15 %
+New death rate (today vs yesterday):         0.29 %
+New death rate (today vs week_ago):          0.15 %
+Fatality rate(total death over total case):  5.64 %
+07-Day ratio of new over weekly deaths:       17 %
+Increase in total cases since last Thu :     21.6 %
+Percent of new cases above 14 day avg:       28.7
+Percent of new cases above 30 day avg:     98.6
+07-Day average of new daily cases:          439
+14-Day average of new daily cases:          364
+30-Day average of new daily cases:          236
+30-Day average of new daily deaths:            9
+7-Day total of lives lost since Thu :        58
+Today's case total:                          17,348
+30-Day doubled case total:                   20,530
+30-Day case total,doubled?               NOT DOUBLED
+
+
+Stats for Ethiopia:
+This is Covid19 data for: July 09, 2020
+New cases are:            108
+Weekly cases are:        928
+Biweekly cases are:      1,740
+Total cases are:       6,774
+==========================
+New deaths are:              1
+Weekly deaths are:         17
+Biweekly deaths are:      42
+Total deaths are:        120
+==============================
+Ethiopia Population: 114,963,583
+==============================
+%Decrease of new cases over yesterday:     -80.0 %
+Rise in weekly infection rate:             0.94 %
+Rates of infection/10k capita (today):            0.94 %
+Rates of infection/10k capita (week_ago): 0.0 %
+Rate of avg weekly cases/100k capita:       0.12
+Rate of new deaths/100k capita(goal < .03):  0.0
+Deaths per 100,000 capita (today):          0.1
+Deaths per 100,000 capita (week_ago):       0.09
+New cases rate (today vs yesterday):         -6.86 %
+New cases rate (today vs week_ago):         1.59 %
+New death rate (today vs yesterday):         -10.37 %
+New death rate (today vs week_ago):          0.83 %
+Fatality rate(total death over total case):  1.77 %
+07-Day ratio of new over weekly deaths:       6 %
+Increase in total cases since last Thu :     15.9 %
+Percent of new cases below 14 day avg:       -13.1
+Percent of new cases below 30 day avg:     -29.8
+07-Day average of new daily cases:          133
+14-Day average of new daily cases:          124
+30-Day average of new daily cases:          154
+30-Day average of new daily deaths:            3
+7-Day total of lives lost since Thu :        17
+Today's case total:                          6,774
+30-Day doubled case total:                   4,312
+30-Day doubled case total? Yes      **HOT_SPOT
+
+
+Stats for Ghana:
+This is Covid19 data for: July 09, 2020
+New cases are:            854
+Weekly cases are:        4,688
+Biweekly cases are:      7,809
+Total cases are:       22,822
+==========================
+New deaths are:              0
+Weekly deaths are:         12
+Biweekly deaths are:      34
+Total deaths are:        129
+==============================
+Ghana Population: 31,072,945
+==============================
+%Decrease of new cases over yesterday:     -13.91 %
+%Increase of new cases over week_ago:       117 %
+Rise in weekly infection rate:             14.83 %
+Rates of infection/10k capita (today):            27.48 %
+Rates of infection/10k capita (week_ago): 12.65 %
+Rate of avg weekly cases/100k capita:       2.16
+Rate of new deaths/100k capita(goal < .03):  0.0
+Deaths per 100,000 capita (today):          0.42
+Deaths per 100,000 capita (week_ago):       0.38
+New cases rate (today vs yesterday):         -0.96 %
+New cases rate (today vs week_ago):         1.57 %
+New death rate (today vs yesterday):         -5.43 %
+New death rate (today vs week_ago):          -4.27 %
+Fatality rate(total death over total case):  0.57 %
+07-Day ratio of new over weekly deaths:       0 %
+Increase in total cases since last Thu :     25.9 %
+Percent of new cases above 14 day avg:       53.1
+Percent of new cases above 30 day avg:     98.4
+07-Day average of new daily cases:          670
+14-Day average of new daily cases:          558
+30-Day average of new daily cases:          430
+30-Day average of new daily deaths:            2.7
+7-Day total of lives lost since Thu :        12
+Today's case total:                          22,822
+30-Day doubled case total:                   19,820
+30-Day doubled case total? Yes      **HOT_SPOT
+
+
+Stats for Nigeria:
+This is Covid19 data for: July 09, 2020
+New cases are:            460
+Weekly cases are:        3,765
+Biweekly cases are:      8,229
+Total cases are:       30,249
+==========================
+New deaths are:              15
+Weekly deaths are:         81
+Biweekly deaths are:      142
+Total deaths are:        684
+==============================
+Nigeria Population: 206,139,587
+==============================
+%Decrease of new cases over yesterday:     -20.0 %
+%Decrease of new cases over week_ago:      -41.77 %
+Fall in weekly infection rate:                        -1.6 %
+Rates of infection/10k capita (today):            2.23 %
+Rates of infection/10k capita (week_ago): 3.83 %
+Rate of avg weekly cases/100k capita:       0.26
+Rate of new deaths/100k capita(goal < .03):  0.01
+Deaths per 100,000 capita (today):          0.33
+Deaths per 100,000 capita (week_ago):       0.29
+New cases rate (today vs yesterday):         -0.44 %
+New cases rate (today vs week_ago):         -1.46 %
+New death rate (today vs yesterday):         0.82 %
+New death rate (today vs week_ago):          0.04 %
+Fatality rate(total death over total case):  2.26 %
+07-Day ratio of new over weekly deaths:       19 %
+Increase in total cases since last Thu :     14.2 %
+Percent of new cases below 14 day avg:       -21.7
+Percent of new cases below 30 day avg:     -20.9
+07-Day average of new daily cases:          538
+14-Day average of new daily cases:          588
+30-Day average of new daily cases:          582
+30-Day average of new daily deaths:            11
+7-Day total of lives lost since Thu :        81
+Today's case total:                          30,249
+30-Day doubled case total:                   25,602
+30-Day doubled case total? Yes      **HOT_SPOT
+
+
+Stats for South Africa:
+This is Covid19 data for: July 09, 2020
+New cases are:            8,810
+Weekly cases are:        65,332
+Biweekly cases are:      112,869
+Total cases are:       224,665
+==========================
+New deaths are:              100
+Weekly deaths are:         853
+Biweekly deaths are:      1,397
+Total deaths are:        3,602
+==============================
+South Africa Population: 59,308,690
+==============================
+%Increase of new cases over week_ago:       8.44 %
+Rise in weekly infection rate:             11.56 %
+Rates of infection/10k capita (today):            149 %
+Rates of infection/10k capita (week_ago): 137 %
+Rate of avg weekly cases/100k capita:       15.74
+Rate of new deaths/100k capita(goal < .03):  0.17
+Deaths per 100,000 capita (today):          6.07
+Deaths per 100,000 capita (week_ago):       4.64
+New cases rate (today vs yesterday):         3.92 %
+New cases rate (today vs week_ago):         -1.18 %
+New death rate (today vs yesterday):         2.78 %
+New death rate (today vs week_ago):          -0.57 %
+Fatality rate(total death over total case):  1.6 %
+07-Day ratio of new over weekly deaths:       12 %
+Increase in total cases since last Thu :     41.0 %
+Percent of new cases above 14 day avg:       9.3
+Percent of new cases above 30 day avg:     52.1
+07-Day average of new daily cases:          9,333
+14-Day average of new daily cases:          8,062
+30-Day average of new daily cases:          5,793
+30-Day average of new daily deaths:            84
+7-Day total of lives lost since Thu :        853
+Today's case total:                          224,665
+30-Day doubled case total:                   101,758
+30-Day quadrupled case total? Yes *SMOKIN_HOT
+
+
+Stats for Cabo Verde:
+This is Covid19 data for: July 09, 2020
+New cases are:            43
+Weekly cases are:        275
+Biweekly cases are:      543
+Total cases are:       1,542
+==========================
+New deaths are:              0
+Weekly deaths are:         3
+Biweekly deaths are:      10
+Total deaths are:        18
+==============================
+Cabo Verde Population: 555,988
+==============================
+%Increase of new cases over yesterday:      258 %
+%Increase of new cases over week_ago:       7.5 %
+Rise in weekly infection rate:             5.4 %
+Rates of infection/10k capita (today):            77.34 %
+Rates of infection/10k capita (week_ago): 71.94 %
+Rate of avg weekly cases/100k capita:       7.07
+Rate of new deaths/100k capita(goal < .03):  0.0
+Deaths per 100,000 capita (today):          3.24
+Deaths per 100,000 capita (week_ago):       2.7
+New cases rate (today vs yesterday):         1.97 %
+New cases rate (today vs week_ago):         -0.37 %
+New death rate (today vs yesterday):         0.0 %
+New death rate (today vs week_ago):          0.0 %
+Fatality rate(total death over total case):  1.17 %
+07-Day ratio of new over weekly deaths:       0 %
+Increase in total cases since last Thu :     21.7 %
+Percent of new cases above 14 day avg:       10.9
+Percent of new cases above 30 day avg:     32.3
+07-Day average of new daily cases:          39
+14-Day average of new daily cases:          39
+30-Day average of new daily cases:          32
+30-Day average of new daily deaths:            0.43
+7-Day total of lives lost since Thu :        3
+Today's case total:                          1,542
+30-Day doubled case total:                   1,134
+30-Day doubled case total? Yes      **HOT_SPOT
+
+
+Stats for Kuwait:
+This is Covid19 data for: July 09, 2020
+New cases are:            762
+Weekly cases are:        5,067
+Biweekly cases are:      10,128
+Total cases are:       52,007
+==========================
+New deaths are:              2
+Weekly deaths are:         21
+Biweekly deaths are:      42
+Total deaths are:        379
+==============================
+Kuwait Population: 4,270,563
+==============================
+%Increase of new cases over yesterday:      8.39 %
+%Increase of new cases over week_ago:       2.28 %
+Rise in weekly infection rate:             3.98 %
+Rates of infection/10k capita (today):            178 %
+Rates of infection/10k capita (week_ago): 174 %
+Rate of avg weekly cases/100k capita:       16.95
+Rate of new deaths/100k capita(goal < .03):  0.05
+Deaths per 100,000 capita (today):          8.87
+Deaths per 100,000 capita (week_ago):       8.38
+New cases rate (today vs yesterday):         0.08 %
+New cases rate (today vs week_ago):         -0.12 %
+New death rate (today vs yesterday):         -0.81 %
+New death rate (today vs week_ago):          -0.59 %
+Fatality rate(total death over total case):  0.73 %
+07-Day ratio of new over weekly deaths:       10 %
+Increase in total cases since last Thu :     10.8 %
+Percent of new cases above 14 day avg:       5.3
+Percent of new cases above 30 day avg:     17.2
+07-Day average of new daily cases:          724
+14-Day average of new daily cases:          723
+30-Day average of new daily cases:          650
+30-Day average of new daily deaths:            4
+7-Day total of lives lost since Thu :        21
+Today's case total:                          52,007
+30-Day doubled case total:                   65,020
+30-Day case total,doubled?               NOT DOUBLED
+
+
+Stats for Egypt:
+This is Covid19 data for: July 09, 2020
+New cases are:            1,025
+Weekly cases are:        8,490
+Biweekly cases are:      20,163
+Total cases are:       78,304
+==========================
+New deaths are:              75
+Weekly deaths are:         530
+Biweekly deaths are:      1,199
+Total deaths are:        3,564
+==============================
+Egypt Population: 102,334,403
+==============================
+%Increase of new cases over yesterday:      5.78 %
+%Decrease of new cases over week_ago:      -31.8 %
+Fall in weekly infection rate:                        -4.67 %
+Rates of infection/10k capita (today):            10.02 %
+Rates of infection/10k capita (week_ago): 14.69 %
+Rate of avg weekly cases/100k capita:       1.19
+Rate of new deaths/100k capita(goal < .03):  0.07
+Deaths per 100,000 capita (today):          3.48
+Deaths per 100,000 capita (week_ago):       2.96
+New cases rate (today vs yesterday):         0.04 %
+New cases rate (today vs week_ago):         -0.84 %
+New death rate (today vs yesterday):         -0.2 %
+New death rate (today vs week_ago):          -0.57 %
+Fatality rate(total death over total case):  4.55 %
+07-Day ratio of new over weekly deaths:       14 %
+Increase in total cases since last Thu :     12.2 %
+Percent of new cases below 14 day avg:       -28.8
+Percent of new cases below 30 day avg:     -28.3
+07-Day average of new daily cases:          1,213
+14-Day average of new daily cases:          1,440
+30-Day average of new daily cases:          1,429
+30-Day average of new daily deaths:            76
+7-Day total of lives lost since Thu :        530
+Today's case total:                          78,304
+30-Day doubled case total:                   70,888
+30-Day doubled case total? Yes      **HOT_SPOT
+
+
+Stats for Oman:
+This is Covid19 data for: July 09, 2020
+New cases are:            1,210
+Weekly cases are:        9,013
+Biweekly cases are:      16,671
+Total cases are:       50,207
+==========================
+New deaths are:              9
+Weekly deaths are:         48
+Biweekly deaths are:      91
+Total deaths are:        233
+==============================
+Oman Population: 5,106,622
+==============================
+%Decrease of new cases over yesterday:     -22.29 %
+%Increase of new cases over week_ago:       7.65 %
+Rise in weekly infection rate:             16.84 %
+Rates of infection/10k capita (today):            237 %
+Rates of infection/10k capita (week_ago): 220 %
+Rate of avg weekly cases/100k capita:       25.21
+Rate of new deaths/100k capita(goal < .03):  0.18
+Deaths per 100,000 capita (today):          4.56
+Deaths per 100,000 capita (week_ago):       3.62
+New cases rate (today vs yesterday):         -0.85 %
+New cases rate (today vs week_ago):         -0.32 %
+New death rate (today vs yesterday):         1.57 %
+New death rate (today vs week_ago):          -1.0 %
+Fatality rate(total death over total case):  0.46 %
+07-Day ratio of new over weekly deaths:       19 %
+Increase in total cases since last Thu :     21.9 %
+Percent of new cases above 14 day avg:       1.6
+Percent of new cases above 30 day avg:     10.9
+07-Day average of new daily cases:          1,288
+14-Day average of new daily cases:          1,191
+30-Day average of new daily cases:          1,091
+30-Day average of new daily deaths:            5
+7-Day total of lives lost since Thu :        48
+Today's case total:                          50,207
+30-Day doubled case total:                   34,972
+30-Day doubled case total? Yes      **HOT_SPOT
+
+
+Stats for Philippines:
+This is Covid19 data for: July 09, 2020
+New cases are:            2,486
+Weekly cases are:        11,848
+Biweekly cases are:      18,064
+Total cases are:       50,359
+==========================
+New deaths are:              5
+Weekly deaths are:         44
+Biweekly deaths are:      110
+Total deaths are:        1,314
+==============================
+Philippines Population: 109,581,085
+==============================
+%Decrease of new cases over yesterday:     -44.79 %
+%Increase of new cases over week_ago:       149 %
+Rise in weekly infection rate:             13.59 %
+Rates of infection/10k capita (today):            22.69 %
+Rates of infection/10k capita (week_ago): 9.1 %
+Rate of avg weekly cases/100k capita:       1.54
+Rate of new deaths/100k capita(goal < .03):  0.0
+Deaths per 100,000 capita (today):          1.2
+Deaths per 100,000 capita (week_ago):       1.16
+New cases rate (today vs yesterday):         -4.78 %
+New cases rate (today vs week_ago):         2.35 %
+New death rate (today vs yesterday):         -0.62 %
+New death rate (today vs week_ago):          0.07 %
+Fatality rate(total death over total case):  2.61 %
+07-Day ratio of new over weekly deaths:       11 %
+Increase in total cases since last Thu :     30.8 %
+Percent of new cases above 14 day avg:       92.7
+Percent of new cases above 30 day avg:     167
+07-Day average of new daily cases:          1,693
+14-Day average of new daily cases:          1,290
+30-Day average of new daily cases:          930
+30-Day average of new daily deaths:            10
+7-Day total of lives lost since Thu :        44
+Today's case total:                          50,359
+30-Day doubled case total:                   44,948
+30-Day doubled case total? Yes      **HOT_SPOT
+
+
+Stats for Indonesia:
+This is Covid19 data for: July 09, 2020
+New cases are:            1,853
+Weekly cases are:        10,309
+Biweekly cases are:      19,070
+Total cases are:       68,079
+==========================
+New deaths are:              50
+Weekly deaths are:         425
+Biweekly deaths are:      786
+Total deaths are:        3,359
+==============================
+Indonesia Population: 273,523,621
+==============================
+%Increase of new cases over yesterday:      53.27 %
+%Increase of new cases over week_ago:       33.79 %
+Rise in weekly infection rate:             1.71 %
+Rates of infection/10k capita (today):            6.77 %
+Rates of infection/10k capita (week_ago): 5.06 %
+Rate of avg weekly cases/100k capita:       0.54
+Rate of new deaths/100k capita(goal < .03):  0.02
+Deaths per 100,000 capita (today):          1.23
+Deaths per 100,000 capita (week_ago):       1.07
+New cases rate (today vs yesterday):         0.86 %
+New cases rate (today vs week_ago):         0.32 %
+New death rate (today vs yesterday):         -0.67 %
+New death rate (today vs week_ago):          -0.49 %
+Fatality rate(total death over total case):  4.93 %
+07-Day ratio of new over weekly deaths:       12 %
+Increase in total cases since last Thu :     17.8 %
+Percent of new cases above 14 day avg:       36.0
+Percent of new cases above 30 day avg:     54.2
+07-Day average of new daily cases:          1,473
+14-Day average of new daily cases:          1,362
+30-Day average of new daily cases:          1,202
+30-Day average of new daily deaths:            49
+7-Day total of lives lost since Thu :        425
+Today's case total:                          68,079
+30-Day doubled case total:                   64,066
+30-Day doubled case total? Yes      **HOT_SPOT
+
+
+** HOT_SPOT status & location determine by Guam
+   Public Health, in consultation with governor
+   and state surgeon physicians' advisory group.
+(Source: https://www.postguam.com/news/local/epidemiologist-philippines-not-the-only-hot-spot/article_67e9e650-aac2-11ea-adb8-db95d33c4632.html)
+
+
+*** As stated by Dr Christopher Murray, director of
+      the Institute for Health Metrics and Evaluation
+      (IHME): He defined the end of this “wave” as a
+      ratio of: 0.3 deaths per 1 million people.    
+      Equivalent to: 0.03 deaths per 100,000 capita.
+(Source: https://www.theguardian.com/world/2020/apr/07/uk-will-be-europes-worst-hit-by-coronavirus-study-predicts)
+
+
+* New cases rate defined as: the percentage ratio
+   between today's new cases over total cases,
+   minus yesterday's new cases over total cases.
+
+
+* Rates of infection defined as: the percentage ratio
+   between today's new cases over 10,000 per capita
+
+
+*** Death Rate defined as: the percentage ratio 
+      between today's new deaths over total deaths,
+      minus yesterday's new deaths over total deaths.
+
+
+*** Economist Intelligence Unit (EIU) analysts
+      said in a note: Death ratios will depend
+      on the capacity of countries to effectively
+      detect, track, and contain the epidemic.
+(Source: https://www.cnbc.com/2020/03/18/coronavirus-will-infect-half-the-global-population-eiu-predicts.html)
